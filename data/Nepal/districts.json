@@ -1,0 +1,548 @@
+[
+    {
+        "#": "1",
+        "Province": "Province No. 1",
+        "District": "Taplejung District",
+        "Headquarters": "Taplejung",
+        "Area (km2.)": "3,646",
+        "Population (2011)[5]": "127,461"
+    },
+    {
+        "#": "2",
+        "Province": "Panchthar District",
+        "District": "Phidim",
+        "Headquarters": "1,241",
+        "Area (km2.)": "191,817"
+    },
+    {
+        "#": "3",
+        "Province": "Ilam District",
+        "District": "Ilam",
+        "Headquarters": "1,703",
+        "Area (km2.)": "290,254"
+    },
+    {
+        "#": "4",
+        "Province": "Jhapa District",
+        "District": "Bhadrapur",
+        "Headquarters": "1,606",
+        "Area (km2.)": "812,650"
+    },
+    {
+        "#": "5",
+        "Province": "Morang District",
+        "District": "Biratnagar",
+        "Headquarters": "1,855",
+        "Area (km2.)": "965,370"
+    },
+    {
+        "#": "6",
+        "Province": "Sunsari District",
+        "District": "Inaruwa",
+        "Headquarters": "1,257",
+        "Area (km2.)": "763,487"
+    },
+    {
+        "#": "7",
+        "Province": "Dhankuta District",
+        "District": "Dhankuta",
+        "Headquarters": "891",
+        "Area (km2.)": "163,412"
+    },
+    {
+        "#": "8",
+        "Province": "Terhathum District",
+        "District": "Myanglung",
+        "Headquarters": "679",
+        "Area (km2.)": "101,577"
+    },
+    {
+        "#": "9",
+        "Province": "Sankhuwasabha District",
+        "District": "Khandbari",
+        "Headquarters": "3,480",
+        "Area (km2.)": "158,742"
+    },
+    {
+        "#": "10",
+        "Province": "Bhojpur District",
+        "District": "Bhojpur",
+        "Headquarters": "1,507",
+        "Area (km2.)": "182,459"
+    },
+    {
+        "#": "11",
+        "Province": "Solukhumbu District",
+        "District": "Dudhkunda",
+        "Headquarters": "3,312",
+        "Area (km2.)": "105,886"
+    },
+    {
+        "#": "12",
+        "Province": "Okhaldhunga District",
+        "District": "Siddhicharan",
+        "Headquarters": "1,074",
+        "Area (km2.)": "147,984"
+    },
+    {
+        "#": "13",
+        "Province": "Khotang District",
+        "District": "Diktel",
+        "Headquarters": "1,591",
+        "Area (km2.)": "206,312"
+    },
+    {
+        "#": "14",
+        "Province": "Udayapur District",
+        "District": "Triyuga",
+        "Headquarters": "2,063",
+        "Area (km2.)": "317,532"
+    },
+    {
+        "#": "15",
+        "Province": "Province No. 2",
+        "District": "Saptari District",
+        "Headquarters": "Rajbiraj",
+        "Area (km2.)": "1,363",
+        "Population (2011)[5]": "639,284"
+    },
+    {
+        "#": "16",
+        "Province": "Siraha District",
+        "District": "Siraha",
+        "Headquarters": "1,188",
+        "Area (km2.)": "637,328"
+    },
+    {
+        "#": "17",
+        "Province": "Dhanusa District",
+        "District": "Janakpur",
+        "Headquarters": "1,180",
+        "Area (km2.)": "754,777"
+    },
+    {
+        "#": "18",
+        "Province": "Mahottari District",
+        "District": "Jaleshwar",
+        "Headquarters": "1,002",
+        "Area (km2.)": "627,580"
+    },
+    {
+        "#": "19",
+        "Province": "Sarlahi District",
+        "District": "Malangwa",
+        "Headquarters": "1,259",
+        "Area (km2.)": "769,729"
+    },
+    {
+        "#": "20",
+        "Province": "Bara District",
+        "District": "Kalaiya",
+        "Headquarters": "1,190",
+        "Area (km2.)": "687,708"
+    },
+    {
+        "#": "21",
+        "Province": "Parsa District",
+        "District": "Birganj",
+        "Headquarters": "1,353",
+        "Area (km2.)": "601,017"
+    },
+    {
+        "#": "22",
+        "Province": "Rautahat District",
+        "District": "Gaur",
+        "Headquarters": "1,126",
+        "Area (km2.)": "686,722"
+    },
+    {
+        "#": "23",
+        "Province": "Province No. 3",
+        "District": "Sindhuli District",
+        "Headquarters": "Kamalamai",
+        "Area (km2.)": "2,491",
+        "Population (2011)[5]": "296,192"
+    },
+    {
+        "#": "24",
+        "Province": "Ramechhap District",
+        "District": "Manthali",
+        "Headquarters": "1,546",
+        "Area (km2.)": "202,646"
+    },
+    {
+        "#": "25",
+        "Province": "Dolakha District",
+        "District": "Bhimeshwar",
+        "Headquarters": "2,191",
+        "Area (km2.)": "186,557"
+    },
+    {
+        "#": "26",
+        "Province": "Sindhupalchok District",
+        "District": "Chautara",
+        "Headquarters": "2,542",
+        "Area (km2.)": "287,798"
+    },
+    {
+        "#": "27",
+        "Province": "Kavrepalanchok District",
+        "District": "Dhulikhel",
+        "Headquarters": "1,396",
+        "Area (km2.)": "381,937"
+    },
+    {
+        "#": "28",
+        "Province": "Lalitpur District",
+        "District": "Lalitpur",
+        "Headquarters": "385",
+        "Area (km2.)": "468,132"
+    },
+    {
+        "#": "29",
+        "Province": "Bhaktapur District",
+        "District": "Bhaktapur",
+        "Headquarters": "119",
+        "Area (km2.)": "304,651"
+    },
+    {
+        "#": "30",
+        "Province": "Kathmandu District",
+        "District": "Kathmandu",
+        "Headquarters": "395",
+        "Area (km2.)": "1,744,240"
+    },
+    {
+        "#": "31",
+        "Province": "Nuwakot District",
+        "District": "Bidur",
+        "Headquarters": "1,121",
+        "Area (km2.)": "277,471"
+    },
+    {
+        "#": "32",
+        "Province": "Rasuwa District",
+        "District": "Dhunche",
+        "Headquarters": "1,544",
+        "Area (km2.)": "43,300"
+    },
+    {
+        "#": "33",
+        "Province": "Dhading District",
+        "District": "Nilkantha",
+        "Headquarters": "1,926",
+        "Area (km2.)": "336,067"
+    },
+    {
+        "#": "34",
+        "Province": "Makwanpur District",
+        "District": "Hetauda",
+        "Headquarters": "2,426",
+        "Area (km2.)": "420,477"
+    },
+    {
+        "#": "35",
+        "Province": "Chitwan District",
+        "District": "Bharatpur",
+        "Headquarters": "2,218",
+        "Area (km2.)": "579,984"
+    },
+    {
+        "#": "36",
+        "Province": "Gandaki Pradesh",
+        "District": "Gorkha District",
+        "Headquarters": "Gorkha",
+        "Area (km2.)": "3,610",
+        "Population (2011)[5]": "271,061"
+    },
+    {
+        "#": "37",
+        "Province": "Lamjung District",
+        "District": "Besisahar",
+        "Headquarters": "1,692",
+        "Area (km2.)": "167,724"
+    },
+    {
+        "#": "38",
+        "Province": "Tanahun District",
+        "District": "Byas",
+        "Headquarters": "1,546",
+        "Area (km2.)": "323,288"
+    },
+    {
+        "#": "39",
+        "Province": "Syangja District",
+        "District": "Putalibazar",
+        "Headquarters": "1,164",
+        "Area (km2.)": "289,148"
+    },
+    {
+        "#": "40",
+        "Province": "Kaski District",
+        "District": "Pokhara",
+        "Headquarters": "2,017",
+        "Area (km2.)": "492,098"
+    },
+    {
+        "#": "41",
+        "Province": "Manang District",
+        "District": "Chame",
+        "Headquarters": "2,246",
+        "Area (km2.)": "6,538"
+    },
+    {
+        "#": "42",
+        "Province": "Mustang District",
+        "District": "Jomsom",
+        "Headquarters": "3,573",
+        "Area (km2.)": "13,452"
+    },
+    {
+        "#": "43",
+        "Province": "Myagdi District",
+        "District": "Beni",
+        "Headquarters": "2,297",
+        "Area (km2.)": "113,641"
+    },
+    {
+        "#": "44",
+        "Province": "Nawalpur District",
+        "District": "Kawasoti",
+        "Headquarters": "1,043.1",
+        "Area (km2.)": "310,864"
+    },
+    {
+        "#": "45",
+        "Province": "Parbat District",
+        "District": "Kusma",
+        "Headquarters": "494",
+        "Area (km2.)": "146,590"
+    },
+    {
+        "#": "46",
+        "Province": "Baglung District",
+        "District": "Baglung",
+        "Headquarters": "1,784",
+        "Area (km2.)": "268,613"
+    },
+    {
+        "#": "47",
+        "Province": "Province No. 5",
+        "District": "Gulmi District",
+        "Headquarters": "Resunga",
+        "Area (km2.)": "1,149",
+        "Population (2011)[5]": "280,160"
+    },
+    {
+        "#": "48",
+        "Province": "Palpa District",
+        "District": "Tansen",
+        "Headquarters": "1,373",
+        "Area (km2.)": "261,180"
+    },
+    {
+        "#": "49",
+        "Province": "Parasi District",
+        "District": "Ramgram",
+        "Headquarters": "634.88",
+        "Area (km2.)": "321,058"
+    },
+    {
+        "#": "50",
+        "Province": "Rupandehi District",
+        "District": "Siddharthanagar",
+        "Headquarters": "1,360",
+        "Area (km2.)": "880,196"
+    },
+    {
+        "#": "51",
+        "Province": "Kapilvastu District",
+        "District": "Kapilvastu",
+        "Headquarters": "1,738",
+        "Area (km2.)": "571,936"
+    },
+    {
+        "#": "52",
+        "Province": "Arghakhanchi District",
+        "District": "Sandhikharka",
+        "Headquarters": "1,193",
+        "Area (km2.)": "197,632"
+    },
+    {
+        "#": "53",
+        "Province": "Pyuthan District",
+        "District": "Pyuthan",
+        "Headquarters": "1,309",
+        "Area (km2.)": "228,102"
+    },
+    {
+        "#": "54",
+        "Province": "Rolpa District",
+        "District": "Liwang",
+        "Headquarters": "1,879",
+        "Area (km2.)": "224,506"
+    },
+    {
+        "#": "55",
+        "Province": "Eastern Rukum District",
+        "District": "Rukumkot",
+        "Headquarters": "1,161.13",
+        "Area (km2.)": "53,018"
+    },
+    {
+        "#": "56",
+        "Province": "Banke District",
+        "District": "Nepalganj",
+        "Headquarters": "2,337",
+        "Area (km2.)": "491,313"
+    },
+    {
+        "#": "57",
+        "Province": "Bardiya District",
+        "District": "Gulariya",
+        "Headquarters": "2,025",
+        "Area (km2.)": "426,576"
+    },
+    {
+        "#": "58",
+        "Province": "Dang District",
+        "District": "Tribhuwannagar",
+        "Headquarters": "2,955",
+        "Area (km2.)": "552,583"
+    },
+    {
+        "#": "59",
+        "Province": "Karnali Pradesh",
+        "District": "Western Rukum District",
+        "Headquarters": "Musikot",
+        "Area (km2.)": "1,213.49",
+        "Population (2011)[5]": "154,272"
+    },
+    {
+        "#": "60",
+        "Province": "Salyan District",
+        "District": "Salyan",
+        "Headquarters": "1,462",
+        "Area (km2.)": "242,444"
+    },
+    {
+        "#": "61",
+        "Province": "Surkhet District",
+        "District": "Birendranagar",
+        "Headquarters": "2,451",
+        "Area (km2.)": "350,804"
+    },
+    {
+        "#": "62",
+        "Province": "Dailekh District",
+        "District": "Narayan",
+        "Headquarters": "1,502",
+        "Area (km2.)": "261,770"
+    },
+    {
+        "#": "63",
+        "Province": "Jajarkot District",
+        "District": "Khalanga",
+        "Headquarters": "2,230",
+        "Area (km2.)": "171,304"
+    },
+    {
+        "#": "64",
+        "Province": "Dolpa District",
+        "District": "Dunai",
+        "Headquarters": "7,889",
+        "Area (km2.)": "36,700"
+    },
+    {
+        "#": "65",
+        "Province": "Jumla District",
+        "District": "Chandannath",
+        "Headquarters": "2,531",
+        "Area (km2.)": "108,921"
+    },
+    {
+        "#": "66",
+        "Province": "Kalikot District",
+        "District": "Manma",
+        "Headquarters": "1,741",
+        "Area (km2.)": "136,948"
+    },
+    {
+        "#": "67",
+        "Province": "Mugu District",
+        "District": "Gamgadhi",
+        "Headquarters": "3,535",
+        "Area (km2.)": "55,286"
+    },
+    {
+        "#": "68",
+        "Province": "Humla District",
+        "District": "Simikot",
+        "Headquarters": "5,655",
+        "Area (km2.)": "50,858"
+    },
+    {
+        "#": "69",
+        "Province": "Sudurpashchim Pradesh",
+        "District": "Bajura District",
+        "Headquarters": "Martadi",
+        "Area (km2.)": "2,188",
+        "Population (2011)[5]": "134,912"
+    },
+    {
+        "#": "70",
+        "Province": "Bajhang District",
+        "District": "Jayaprithvi",
+        "Headquarters": "3,422",
+        "Area (km2.)": "195,159"
+    },
+    {
+        "#": "71",
+        "Province": "Achham District",
+        "District": "Mangalsen",
+        "Headquarters": "1,680",
+        "Area (km2.)": "257,477"
+    },
+    {
+        "#": "72",
+        "Province": "Doti District",
+        "District": "Dipayal Silgadhi",
+        "Headquarters": "2,025",
+        "Area (km2.)": "211,746"
+    },
+    {
+        "#": "73",
+        "Province": "Kailali District",
+        "District": "Dhangadhi",
+        "Headquarters": "3,235",
+        "Area (km2.)": "775,709"
+    },
+    {
+        "#": "74",
+        "Province": "Kanchanpur District",
+        "District": "Bhimdatta",
+        "Headquarters": "1,610",
+        "Area (km2.)": "451,248"
+    },
+    {
+        "#": "75",
+        "Province": "Dadeldhura District",
+        "District": "Amargadhi",
+        "Headquarters": "1,538",
+        "Area (km2.)": "142,094"
+    },
+    {
+        "#": "76",
+        "Province": "Baitadi District",
+        "District": "Dasharathchand",
+        "Headquarters": "1,519",
+        "Area (km2.)": "250,898"
+    },
+    {
+        "#": "77",
+        "Province": "Darchula District",
+        "District": "Api",
+        "Headquarters": "2,322",
+        "Area (km2.)": "133,274"
+    }
+]

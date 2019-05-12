@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Province3",
+        "capital": "Hetauda(Temporary)",
+        "chief minister": "Dormani Poudel",
+        "country": "Nepal",
+        "total districts": "13",
+        "area": "20,300 km^2",
+        "area rank": "5",
+        "districts": [
+            {
+                "#": "23",
+                "Province": "Province No. 3",
+                "District": "Sindhuli District",
+                "Headquarters": "Kamalamai",
+                "Area (km2.)": "2,491",
+                "Population (2011)[5]": "296,192"
+            },
+            {
+                "#": "24",
+                "Province": "Ramechhap District",
+                "District": "Manthali",
+                "Headquarters": "1,546",
+                "Area (km2.)": "202,646"
+            },
+            {
+                "#": "25",
+                "Province": "Dolakha District",
+                "District": "Bhimeshwar",
+                "Headquarters": "2,191",
+                "Area (km2.)": "186,557"
+            },
+            {
+                "#": "26",
+                "Province": "Sindhupalchok District",
+                "District": "Chautara",
+                "Headquarters": "2,542",
+                "Area (km2.)": "287,798"
+            },
+            {
+                "#": "27",
+                "Province": "Kavrepalanchok District",
+                "District": "Dhulikhel",
+                "Headquarters": "1,396",
+                "Area (km2.)": "381,937"
+            },
+            {
+                "#": "28",
+                "Province": "Lalitpur District",
+                "District": "Lalitpur",
+                "Headquarters": "385",
+                "Area (km2.)": "468,132"
+            },
+            {
+                "#": "29",
+                "Province": "Bhaktapur District",
+                "District": "Bhaktapur",
+                "Headquarters": "119",
+                "Area (km2.)": "304,651"
+            },
+            {
+                "#": "30",
+                "Province": "Kathmandu District",
+                "District": "Kathmandu",
+                "Headquarters": "395",
+                "Area (km2.)": "1,744,240"
+            },
+            {
+                "#": "31",
+                "Province": "Nuwakot District",
+                "District": "Bidur",
+                "Headquarters": "1,121",
+                "Area (km2.)": "277,471"
+            },
+            {
+                "#": "32",
+                "Province": "Rasuwa District",
+                "District": "Dhunche",
+                "Headquarters": "1,544",
+                "Area (km2.)": "43,300"
+            },
+            {
+                "#": "33",
+                "Province": "Dhading District",
+                "District": "Nilkantha",
+                "Headquarters": "1,926",
+                "Area (km2.)": "336,067"
+            },
+            {
+                "#": "34",
+                "Province": "Makwanpur District",
+                "District": "Hetauda",
+                "Headquarters": "2,426",
+                "Area (km2.)": "420,477"
+            },
+            {
+                "#": "35",
+                "Province": "Chitwan District",
+                "District": "Bharatpur",
+                "Headquarters": "2,218",
+                "Area (km2.)": "579,984"
+            }
+        ]
+    }
+]

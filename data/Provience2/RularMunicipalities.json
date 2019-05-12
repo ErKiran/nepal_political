@@ -1,0 +1,592 @@
+[
+    {
+        "#": "1",
+        "Name": "Subarna",
+        "Nepali": "सुवर्ण",
+        "District": "Bara",
+        "Population (2011)": "29,602",
+        "Area (km2)": "36.84",
+        "Density": "804",
+        "Website": ""
+    },
+    {
+        "#": "2",
+        "Name": "Adarsha Kotwal",
+        "Nepali": "आदर्श कोतवाल",
+        "District": "Bara",
+        "Population (2011)": "27,552",
+        "Area (km2)": "36.25",
+        "Density": "760",
+        "Website": ""
+    },
+    {
+        "#": "3",
+        "Name": "Baragadhi",
+        "Nepali": "बारागढी",
+        "District": "Bara",
+        "Population (2011)": "27,191",
+        "Area (km2)": "39.29",
+        "Density": "692",
+        "Website": ""
+    },
+    {
+        "#": "4",
+        "Name": "Pheta",
+        "Nepali": "फेटा",
+        "District": "Bara",
+        "Population (2011)": "26,722",
+        "Area (km2)": "23.65",
+        "Density": "1130",
+        "Website": ""
+    },
+    {
+        "#": "5",
+        "Name": "Karaiyamai",
+        "Nepali": "करैयामाई",
+        "District": "Bara",
+        "Population (2011)": "26,400",
+        "Area (km2)": "47.69",
+        "Density": "554",
+        "Website": ""
+    },
+    {
+        "#": "6",
+        "Name": "Prasauni",
+        "Nepali": "प्रसौनी",
+        "District": "Bara",
+        "Population (2011)": "24,478",
+        "Area (km2)": "20.24",
+        "Density": "1209",
+        "Website": ""
+    },
+    {
+        "#": "7",
+        "Name": "Bishrampur",
+        "Nepali": "विश्रामपुर",
+        "District": "Bara",
+        "Population (2011)": "23,785",
+        "Area (km2)": "19.81",
+        "Density": "1201",
+        "Website": ""
+    },
+    {
+        "#": "8",
+        "Name": "Devtal",
+        "Nepali": "देवताल",
+        "District": "Bara",
+        "Population (2011)": "23,223",
+        "Area (km2)": "23.31",
+        "Density": "996",
+        "Website": ""
+    },
+    {
+        "#": "9",
+        "Name": "Parawanipur",
+        "Nepali": "परवानीपुर",
+        "District": "Bara",
+        "Population (2011)": "22,787",
+        "Area (km2)": "15.48",
+        "Density": "1472",
+        "Website": ""
+    },
+    {
+        "#": "10",
+        "Name": "Laksminiya",
+        "Nepali": "लक्ष्मीनिया",
+        "District": "Dhanusha",
+        "Population (2011)": "28,251",
+        "Area (km2)": "30.66",
+        "Density": "921",
+        "Website": ""
+    },
+    {
+        "#": "11",
+        "Name": "Mukhiyapatti Musaharmiya",
+        "Nepali": "मुखियापट्टी मुसहरमिया",
+        "District": "Dhanusha",
+        "Population (2011)": "25,482",
+        "Area (km2)": "26.84",
+        "Density": "949",
+        "Website": ""
+    },
+    {
+        "#": "12",
+        "Name": "Janak Nandini",
+        "Nepali": "जनकनन्दिनी",
+        "District": "Dhanusha",
+        "Population (2011)": "25,085",
+        "Area (km2)": "27.62",
+        "Density": "908",
+        "Website": ""
+    },
+    {
+        "#": "13",
+        "Name": "Aaurahi",
+        "Nepali": "औरही",
+        "District": "Dhanusha",
+        "Population (2011)": "22,578",
+        "Area (km2)": "25.56",
+        "Density": "883",
+        "Website": ""
+    },
+    {
+        "#": "14",
+        "Name": "Bateshwar",
+        "Nepali": "बटेश्वर",
+        "District": "Dhanusha",
+        "Population (2011)": "21,530",
+        "Area (km2)": "31.66",
+        "Density": "680",
+        "Website": ""
+    },
+    {
+        "#": "15",
+        "Name": "Dhanauji",
+        "Nepali": "धनौजी",
+        "District": "Dhanusha",
+        "Population (2011)": "21,395",
+        "Area (km2)": "22.13",
+        "Density": "967",
+        "Website": ""
+    },
+    {
+        "#": "16",
+        "Name": "Sonama",
+        "Nepali": "सोनमा",
+        "District": "Mahottari",
+        "Population (2011)": "38,747",
+        "Area (km2)": "57.77",
+        "Density": "671",
+        "Website": ""
+    },
+    {
+        "#": "17",
+        "Name": "Pipara",
+        "Nepali": "पिपरा",
+        "District": "Mahottari",
+        "Population (2011)": "35,524",
+        "Area (km2)": "39.98",
+        "Density": "889",
+        "Website": ""
+    },
+    {
+        "#": "18",
+        "Name": "Samsi",
+        "Nepali": "साम्सी",
+        "District": "Mahottari",
+        "Population (2011)": "33,791",
+        "Area (km2)": "21.57",
+        "Density": "1567",
+        "Website": ""
+    },
+    {
+        "#": "19",
+        "Name": "Ekdara",
+        "Nepali": "एकडारा",
+        "District": "Mahottari",
+        "Population (2011)": "29,315",
+        "Area (km2)": "24",
+        "Density": "1221",
+        "Website": ""
+    },
+    {
+        "#": "20",
+        "Name": "Mahottari",
+        "Nepali": "महोत्तरी",
+        "District": "Mahottari",
+        "Population (2011)": "27,430",
+        "Area (km2)": "28.08",
+        "Density": "977",
+        "Website": ""
+    },
+    {
+        "#": "21",
+        "Name": "Sakhuwa Prasauni",
+        "Nepali": "सखुवा प्रसौनी",
+        "District": "Parsa",
+        "Population (2011)": "32,448",
+        "Area (km2)": "74.27",
+        "Density": "437",
+        "Website": ""
+    },
+    {
+        "#": "22",
+        "Name": "Jagarnathpur",
+        "Nepali": "जगरनाथपुर",
+        "District": "Parsa",
+        "Population (2011)": "31,591",
+        "Area (km2)": "45.29",
+        "Density": "698",
+        "Website": ""
+    },
+    {
+        "#": "23",
+        "Name": "Chhipaharmai",
+        "Nepali": "छिपहरमाई",
+        "District": "Parsa",
+        "Population (2011)": "26,671",
+        "Area (km2)": "24.9",
+        "Density": "1071",
+        "Website": ""
+    },
+    {
+        "#": "24",
+        "Name": "Bindabasini",
+        "Nepali": "बिन्दबासिनी",
+        "District": "Parsa",
+        "Population (2011)": "24,468",
+        "Area (km2)": "26.04",
+        "Density": "940",
+        "Website": ""
+    },
+    {
+        "#": "25",
+        "Name": "Paterwa Sugauli",
+        "Nepali": "पटेर्वा सुगौली",
+        "District": "Parsa",
+        "Population (2011)": "23,901",
+        "Area (km2)": "64.29",
+        "Density": "372",
+        "Website": ""
+    },
+    {
+        "#": "26",
+        "Name": "Jira Bhavani",
+        "Nepali": "जिरा भवानी",
+        "District": "Parsa",
+        "Population (2011)": "22,765",
+        "Area (km2)": "55.39",
+        "Density": "411",
+        "Website": ""
+    },
+    {
+        "#": "27",
+        "Name": "Kalikamai",
+        "Nepali": "कालिकामाई",
+        "District": "Parsa",
+        "Population (2011)": "21,131",
+        "Area (km2)": "24.66",
+        "Density": "857",
+        "Website": ""
+    },
+    {
+        "#": "28",
+        "Name": "Pakaha Mainpur",
+        "Nepali": "पकाहा मैनपुर",
+        "District": "Parsa",
+        "Population (2011)": "20,717",
+        "Area (km2)": "21.26",
+        "Density": "974",
+        "Website": ""
+    },
+    {
+        "#": "29",
+        "Name": "Thori",
+        "Nepali": "ठोरी",
+        "District": "Parsa",
+        "Population (2011)": "20,296",
+        "Area (km2)": "128.67",
+        "Density": "158",
+        "Website": ""
+    },
+    {
+        "#": "30",
+        "Name": "Dhobini",
+        "Nepali": "धोबीनी",
+        "District": "Parsa",
+        "Population (2011)": "19,911",
+        "Area (km2)": "24.41",
+        "Density": "816",
+        "Website": ""
+    },
+    {
+        "#": "31",
+        "Name": "Durga Bhagawati",
+        "Nepali": "दुर्गा भगवती",
+        "District": "Rautahat",
+        "Population (2011)": "22,599",
+        "Area (km2)": "19.8",
+        "Density": "1141",
+        "Website": ""
+    },
+    {
+        "#": "32",
+        "Name": "Yamunamai",
+        "Nepali": "यमुनामाई",
+        "District": "Rautahat",
+        "Population (2011)": "23,885",
+        "Area (km2)": "16.7",
+        "Density": "1430",
+        "Website": ""
+    },
+    {
+        "#": "33",
+        "Name": "Tilathi Koiladi",
+        "Nepali": "तिलाठी कोईलाडी",
+        "District": "Saptari",
+        "Population (2011)": "32,389",
+        "Area (km2)": "32.91",
+        "Density": "984",
+        "Website": ""
+    },
+    {
+        "#": "34",
+        "Name": "Belhi Chapena",
+        "Nepali": "बेल्ही चपेना",
+        "District": "Saptari",
+        "Population (2011)": "29,459",
+        "Area (km2)": "47.9",
+        "Density": "615",
+        "Website": ""
+    },
+    {
+        "#": "35",
+        "Name": "Chhinnamasta",
+        "Nepali": "छिन्नमस्ता",
+        "District": "Saptari",
+        "Population (2011)": "28,370",
+        "Area (km2)": "38.71",
+        "Density": "733",
+        "Website": ""
+    },
+    {
+        "#": "36",
+        "Name": "Mahadeva",
+        "Nepali": "महादेवा",
+        "District": "Saptari",
+        "Population (2011)": "28,542",
+        "Area (km2)": "34.97",
+        "Density": "816",
+        "Website": ""
+    },
+    {
+        "#": "37",
+        "Name": "Aagnisaira Krishnasawaran",
+        "Nepali": "अग्निसाइर कृष्णासवरन",
+        "District": "Saptari",
+        "Population (2011)": "27,129",
+        "Area (km2)": "103.08",
+        "Density": "263",
+        "Website": ""
+    },
+    {
+        "#": "38",
+        "Name": "Rupani",
+        "Nepali": "रुपनी",
+        "District": "Saptari",
+        "Population (2011)": "26,387",
+        "Area (km2)": "56.08",
+        "Density": "471",
+        "Website": ""
+    },
+    {
+        "#": "39",
+        "Name": "Balan-Bihul",
+        "Nepali": "बलान-बिहुल",
+        "District": "Saptari",
+        "Population (2011)": "26,068",
+        "Area (km2)": "33.04",
+        "Density": "789",
+        "Website": ""
+    },
+    {
+        "#": "40",
+        "Name": "Bishnupur",
+        "Nepali": "बिष्णुपुर",
+        "District": "Saptari",
+        "Population (2011)": "23,035",
+        "Area (km2)": "37",
+        "Density": "623",
+        "Website": ""
+    },
+    {
+        "#": "41",
+        "Name": "Tirhut",
+        "Nepali": "तिरहुत",
+        "District": "Saptari",
+        "Population (2011)": "22,010",
+        "Area (km2)": "37.81",
+        "Density": "582",
+        "Website": ""
+    },
+    {
+        "#": "42",
+        "Name": "Chandranagar",
+        "Nepali": "चन्द्रनगर",
+        "District": "Sarlahi",
+        "Population (2011)": "33,328",
+        "Area (km2)": "47.5",
+        "Density": "702",
+        "Website": ""
+    },
+    {
+        "#": "43",
+        "Name": "Bramhapuri",
+        "Nepali": "ब्रह्मपुरी",
+        "District": "Sarlahi",
+        "Population (2011)": "29,832",
+        "Area (km2)": "33.89",
+        "Density": "880",
+        "Website": ""
+    },
+    {
+        "#": "44",
+        "Name": "Ramnagar",
+        "Nepali": "रामनगर",
+        "District": "Sarlahi",
+        "Population (2011)": "28,727",
+        "Area (km2)": "26.44",
+        "Density": "1086",
+        "Website": ""
+    },
+    {
+        "#": "45",
+        "Name": "Chakraghatta",
+        "Nepali": "चक्रघट्टा",
+        "District": "Sarlahi",
+        "Population (2011)": "27,952",
+        "Area (km2)": "25.16",
+        "Density": "1111",
+        "Website": ""
+    },
+    {
+        "#": "46",
+        "Name": "Kaudena",
+        "Nepali": "कौडेना",
+        "District": "Sarlahi",
+        "Population (2011)": "26,085",
+        "Area (km2)": "25.33",
+        "Density": "1030",
+        "Website": ""
+    },
+    {
+        "#": "47",
+        "Name": "Dhankaul",
+        "Nepali": "धनकौल",
+        "District": "Sarlahi",
+        "Population (2011)": "24,788",
+        "Area (km2)": "45.94",
+        "Density": "540",
+        "Website": ""
+    },
+    {
+        "#": "48",
+        "Name": "Bishnu",
+        "Nepali": "विष्णु",
+        "District": "Sarlahi",
+        "Population (2011)": "24,748",
+        "Area (km2)": "28.09",
+        "Density": "881",
+        "Website": ""
+    },
+    {
+        "#": "49",
+        "Name": "Basbariya",
+        "Nepali": "बसबरिया",
+        "District": "Sarlahi",
+        "Population (2011)": "23,568",
+        "Area (km2)": "29.42",
+        "Density": "801",
+        "Website": ""
+    },
+    {
+        "#": "50",
+        "Name": "Parsa",
+        "Nepali": "पर्सा",
+        "District": "Sarlahi",
+        "Population (2011)": "21,650",
+        "Area (km2)": "23.12",
+        "Density": "936",
+        "Website": ""
+    },
+    {
+        "#": "51",
+        "Name": "Laksmipur Patari",
+        "Nepali": "लक्ष्मीपुर पतारी",
+        "District": "Siraha",
+        "Population (2011)": "26,913",
+        "Area (km2)": "42.33",
+        "Density": "636",
+        "Website": ""
+    },
+    {
+        "#": "52",
+        "Name": "Bariyarpatti",
+        "Nepali": "बरियारपट्टी",
+        "District": "Siraha",
+        "Population (2011)": "25,256",
+        "Area (km2)": "37.72",
+        "Density": "670",
+        "Website": ""
+    },
+    {
+        "#": "53",
+        "Name": "Aaurahi",
+        "Nepali": "औरही",
+        "District": "Siraha",
+        "Population (2011)": "23,046",
+        "Area (km2)": "35.87",
+        "Density": "642",
+        "Website": ""
+    },
+    {
+        "#": "54",
+        "Name": "Arnama",
+        "Nepali": "अर्नमा",
+        "District": "Siraha",
+        "Population (2011)": "22,912",
+        "Area (km2)": "37.76",
+        "Density": "607",
+        "Website": ""
+    },
+    {
+        "#": "55",
+        "Name": "Bhagawanpur",
+        "Nepali": "भगवानपुर",
+        "District": "Siraha",
+        "Population (2011)": "20,957",
+        "Area (km2)": "33.03",
+        "Density": "634",
+        "Website": ""
+    },
+    {
+        "#": "56",
+        "Name": "Naraha",
+        "Nepali": "नरहा",
+        "District": "Siraha",
+        "Population (2011)": "19,369",
+        "Area (km2)": "29.28",
+        "Density": "662",
+        "Website": ""
+    },
+    {
+        "#": "57",
+        "Name": "Nawarajpur",
+        "Nepali": "नवराजपुर",
+        "District": "Siraha",
+        "Population (2011)": "19,019",
+        "Area (km2)": "32.18",
+        "Density": "591",
+        "Website": ""
+    },
+    {
+        "#": "58",
+        "Name": "Sakhuwanankarkatti",
+        "Nepali": "सखुवानान्कारकट्टी",
+        "District": "Siraha",
+        "Population (2011)": "18,558",
+        "Area (km2)": "32.84",
+        "Density": "565",
+        "Website": ""
+    },
+    {
+        "#": "59",
+        "Name": "Bishnupur",
+        "Nepali": "विष्णुपुर",
+        "District": "Siraha",
+        "Population (2011)": "18,522",
+        "Area (km2)": "26.34",
+        "Density": "703",
+        "Website": ""
+    }
+]
