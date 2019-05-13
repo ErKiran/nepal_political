@@ -12,7 +12,25 @@
                 "name": "Bhojpur District",
                 "geocode": "106",
                 "headquarters": "Bhojpur",
-                "area": "1,507km^2"
+                "area": "1,507km^2",
+                "municipalities": [
+                    {
+                        "Name": "Shadanand",
+                        "Nepali": "षडानंद",
+                        "District": "Bhojpur",
+                        "Population (2011)": "31,610",
+                        "Area": "101.5"
+                    },
+                    {
+                        "Rank": "2",
+                        "Name": "Bhojpur",
+                        "Nepali": "भोजपुर",
+                        "District": "Bhojpur",
+                        "Population (2011)": "27,204",
+                        "Area": "159.51",
+                        "Website": "[20]"
+                    }
+                ]
             },
             {
                 "name": "Dhankuta District",

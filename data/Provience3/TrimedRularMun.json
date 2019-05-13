@@ -1,0 +1,594 @@
+[
+  {
+    "Name": "Ichchhakamana",
+    "Nepali": "इच्छाकामना",
+    "District": "Chitwan",
+    "Population (2011)": "25,012",
+    "Area (km2)": "166.73",
+    "Density": "150"
+  },
+  {
+    "Name": "Thakre",
+    "Nepali": "थाक्रे",
+    "District": "Dhading",
+    "Population (2011)": "32,914",
+    "Area (km2)": "96.41",
+    "Density": "341"
+  },
+  {
+    "Name": "Benighat Rorang",
+    "Nepali": "बेनीघाट रोराङ्ग",
+    "District": "Dhading",
+    "Population (2011)": "31,475",
+    "Area (km2)": "29.17",
+    "Density": "1,079"
+  },
+  {
+    "Name": "Galchhi",
+    "Nepali": "गल्छी",
+    "District": "Dhading",
+    "Population (2011)": "27,784",
+    "Area (km2)": "129.08",
+    "Density": "215"
+  },
+  {
+    "Name": "Gajuri",
+    "Nepali": "गजुरी",
+    "District": "Dhading",
+    "Population (2011)": "27,084",
+    "Area (km2)": "138.66",
+    "Density": "195"
+  },
+  {
+    "Name": "Jwalamukhi",
+    "Nepali": "ज्वालामूखी",
+    "District": "Dhading",
+    "Population (2011)": "23,966",
+    "Area (km2)": "114.04",
+    "Density": "210"
+  },
+  {
+    "Name": "Siddhalekh",
+    "Nepali": "सिद्धलेक",
+    "District": "Dhading",
+    "Population (2011)": "23,729",
+    "Area (km2)": "106.09",
+    "Density": "224"
+  },
+  {
+    "Name": "Tripura Sundari",
+    "Nepali": "त्रिपुरासुन्दरी",
+    "District": "Dhading",
+    "Population (2011)": "22,960",
+    "Area (km2)": "271.23",
+    "Density": "85"
+  },
+  {
+    "Name": "Gangajamuna",
+    "Nepali": "गङ्गाजमुना",
+    "District": "Dhading",
+    "Population (2011)": "21,784",
+    "Area (km2)": "152.72",
+    "Density": "143"
+  },
+  {
+    "Name": "Netrawati Dabjong",
+    "Nepali": "नेत्रावती डबजोङ",
+    "District": "Dhading",
+    "Population (2011)": "12,870",
+    "Area (km2)": "181.78",
+    "Density": "71"
+  },
+  {
+    "Name": "Khaniyabas",
+    "Nepali": "खनियाबास",
+    "District": "Dhading",
+    "Population (2011)": "12,749",
+    "Area (km2)": "120.8",
+    "Density": "106"
+  },
+  {
+    "Name": "Ruby Valley",
+    "Nepali": "रुवी भ्याली",
+    "District": "Dhading",
+    "Population (2011)": "9,565",
+    "Area (km2)": "401.85",
+    "Density": "24"
+  },
+  {
+    "Name": "Kalinchok",
+    "Nepali": "कालिन्चोक",
+    "District": "Dolakha",
+    "Population (2011)": "22,954",
+    "Area (km2)": "132.49",
+    "Density": "173"
+  },
+  {
+    "Name": "Melung",
+    "Nepali": "मेलुङ",
+    "District": "Dolakha",
+    "Population (2011)": "20,210",
+    "Area (km2)": "86.54",
+    "Density": "234"
+  },
+  {
+    "Name": "Shailung",
+    "Nepali": "शैलुङ",
+    "District": "Dolakha",
+    "Population (2011)": "20,098",
+    "Area (km2)": "128.67",
+    "Density": "156"
+  },
+  {
+    "Name": "Baiteshwar",
+    "Nepali": "वैतेश्वर",
+    "District": "Dolakha",
+    "Population (2011)": "19,876",
+    "Area (km2)": "80.41",
+    "Density": "247"
+  },
+  {
+    "Name": "Tamakoshi",
+    "Nepali": "तामाकोशी",
+    "District": "Dolakha",
+    "Population (2011)": "18,849",
+    "Area (km2)": "153.06",
+    "Density": "123"
+  },
+  {
+    "Name": "Bigu",
+    "Nepali": "विगु",
+    "District": "Dolakha",
+    "Population (2011)": "18,449",
+    "Area (km2)": "663.2",
+    "Density": "28"
+  },
+  {
+    "Name": "Gaurishankar",
+    "Nepali": "गौरिशंकर",
+    "District": "Dolakha",
+    "Population (2011)": "17,062",
+    "Area (km2)": "681.39",
+    "Density": "25"
+  },
+  {
+    "Name": "Roshi",
+    "Nepali": "रोशी",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "28,746",
+    "Area (km2)": "176",
+    "Density": "163"
+  },
+  {
+    "Name": "Temal",
+    "Nepali": "तेमाल",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "22,712",
+    "Area (km2)": "89",
+    "Density": "255"
+  },
+  {
+    "Name": "Chaunri Deurali",
+    "Nepali": "चौंरी देउराली",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "20,829",
+    "Area (km2)": "98",
+    "Density": "213"
+  },
+  {
+    "Name": "Bhumlu",
+    "Nepali": "भुम्लु",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "18,916",
+    "Area (km2)": "91",
+    "Density": "208"
+  },
+  {
+    "Name": "Mahabharat",
+    "Nepali": "महाभारत",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "18,283",
+    "Area (km2)": "186",
+    "Density": "98"
+  },
+  {
+    "Name": "Bethanchok",
+    "Nepali": "बेथानचोक",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "16,777",
+    "Area (km2)": "101",
+    "Density": "166"
+  },
+  {
+    "Name": "Khanikhola",
+    "Nepali": "खानीखोला",
+    "District": "Kavrepalanchok",
+    "Population (2011)": "14,398",
+    "Area (km2)": "132",
+    "Density": "109"
+  },
+  {
+    "Name": "Bagmati",
+    "Nepali": "बाग्मती",
+    "District": "Lalitpur",
+    "Population (2011)": "13,049",
+    "Area (km2)": "111.49",
+    "Density": "117"
+  },
+  {
+    "Name": "Konjyosom",
+    "Nepali": "कोन्ज्योसोम",
+    "District": "Lalitpur",
+    "Population (2011)": "9,709",
+    "Area (km2)": "44.16",
+    "Density": "220"
+  },
+  {
+    "Name": "Mahankal",
+    "Nepali": "महाङ्काल",
+    "District": "Lalitpur",
+    "Population (2011)": "9,453",
+    "Area (km2)": "82.44",
+    "Density": "115"
+  },
+  {
+    "Name": "Bakaiya",
+    "Nepali": "बकैया",
+    "District": "Makwanpur",
+    "Population (2011)": "39,620",
+    "Area (km2)": "393.75",
+    "Density": "101"
+  },
+  {
+    "Name": "Manhari",
+    "Nepali": "मनहरी",
+    "District": "Makwanpur",
+    "Population (2011)": "38,399",
+    "Area (km2)": "199.52",
+    "Density": "192"
+  },
+  {
+    "Name": "Bagmati",
+    "Nepali": "बाग्मती",
+    "District": "Makwanpur",
+    "Population (2011)": "30,495",
+    "Area (km2)": "311.79",
+    "Density": "98"
+  },
+  {
+    "Name": "Raksirang",
+    "Nepali": "राक्सिराङ्ग",
+    "District": "Makwanpur",
+    "Population (2011)": "26,192",
+    "Area (km2)": "226.7",
+    "Density": "116"
+  },
+  {
+    "Name": "Makawanpurgadhi",
+    "Nepali": "मकवानपुरगढी",
+    "District": "Makwanpur",
+    "Population (2011)": "25,322",
+    "Area (km2)": "148.72",
+    "Density": "170"
+  },
+  {
+    "Name": "Kailash",
+    "Nepali": "कैलाश",
+    "District": "Makwanpur",
+    "Population (2011)": "23,922",
+    "Area (km2)": "204.48",
+    "Density": "117"
+  },
+  {
+    "Name": "Bhimphedi",
+    "Nepali": "भीमफेदी",
+    "District": "Makwanpur",
+    "Population (2011)": "23,344",
+    "Area (km2)": "245.27",
+    "Density": "95"
+  },
+  {
+    "Name": "Indrasarowar",
+    "Nepali": "ईन्द्र सरोवर",
+    "District": "Makwanpur",
+    "Population (2011)": "17,585",
+    "Area (km2)": "97.34",
+    "Density": "181"
+  },
+  {
+    "Name": "Kakani",
+    "Nepali": "ककनी",
+    "District": "Nuwakot",
+    "Population (2011)": "27,073",
+    "Area (km2)": "87.97",
+    "Density": "308"
+  },
+  {
+    "Name": "Dupcheshwar",
+    "Nepali": "दुप्चेश्वर",
+    "District": "Nuwakot",
+    "Population (2011)": "22,106",
+    "Area (km2)": "131.62",
+    "Density": "168"
+  },
+  {
+    "Name": "Shivapuri",
+    "Nepali": "शिवपुरी",
+    "District": "Nuwakot",
+    "Population (2011)": "20,769",
+    "Area (km2)": "101.5",
+    "Density": "205"
+  },
+  {
+    "Name": "Tadi",
+    "Nepali": "तादी",
+    "District": "Nuwakot",
+    "Population (2011)": "17,932",
+    "Area (km2)": "69.8",
+    "Density": "257"
+  },
+  {
+    "Name": "Likhu",
+    "Nepali": "लिखु",
+    "District": "Nuwakot",
+    "Population (2011)": "16,852",
+    "Area (km2)": "47.88",
+    "Density": "352"
+  },
+  {
+    "Name": "Suryagadhi",
+    "Nepali": "सुर्यगढी",
+    "District": "Nuwakot",
+    "Population (2011)": "16,800",
+    "Area (km2)": "49.09",
+    "Density": "342"
+  },
+  {
+    "Name": "Panchakanya",
+    "Nepali": "पञ्चकन्या",
+    "District": "Nuwakot",
+    "Population (2011)": "15,945",
+    "Area (km2)": "53.47",
+    "Density": "298"
+  },
+  {
+    "Name": "Tarkeshwar",
+    "Nepali": "तारकेश्वर",
+    "District": "Nuwakot",
+    "Population (2011)": "15,719",
+    "Area (km2)": "72.62",
+    "Density": "216"
+  },
+  {
+    "Name": "Kispang",
+    "Nepali": "किस्पाङ",
+    "District": "Nuwakot",
+    "Population (2011)": "14,861",
+    "Area (km2)": "82.57",
+    "Density": "180"
+  },
+  {
+    "Name": "Myagang",
+    "Nepali": "म्यागङ",
+    "District": "Nuwakot",
+    "Population (2011)": "13,479",
+    "Area (km2)": "97.83",
+    "Density": "138"
+  },
+  {
+    "Name": "Khandadevi",
+    "Nepali": "खाँडादेवी",
+    "District": "Ramechhap",
+    "Population (2011)": "25,761",
+    "Area (km2)": "150.7",
+    "Density": "171"
+  },
+  {
+    "Name": "Likhu Tamakoshi",
+    "Nepali": "लिखु तामाकोशी",
+    "District": "Ramechhap",
+    "Population (2011)": "23,109",
+    "Area (km2)": "124.51",
+    "Density": "186"
+  },
+  {
+    "Name": "Doramba",
+    "Nepali": "दोरम्बा",
+    "District": "Ramechhap",
+    "Population (2011)": "22,738",
+    "Area (km2)": "140.88",
+    "Density": "161"
+  },
+  {
+    "Name": "Gokulganga",
+    "Nepali": "गोकुलगङ्गा",
+    "District": "Ramechhap",
+    "Population (2011)": "20,058",
+    "Area (km2)": "198.4",
+    "Density": "101"
+  },
+  {
+    "Name": "Sunapati",
+    "Nepali": "सुनापती",
+    "District": "Ramechhap",
+    "Population (2011)": "18,141",
+    "Area (km2)": "86.98",
+    "Density": "209"
+  },
+  {
+    "Name": "Umakunda",
+    "Nepali": "उमाकुण्ड",
+    "District": "Ramechhap",
+    "Population (2011)": "17,601",
+    "Area (km2)": "451.99",
+    "Density": "39"
+  },
+  {
+    "Name": "Naukunda",
+    "Nepali": "नौकुण्ड",
+    "District": "Rasuwa",
+    "Population (2011)": "11,824",
+    "Area (km2)": "126.99",
+    "Density": "93"
+  },
+  {
+    "Name": "Kalika",
+    "Nepali": "कालिका",
+    "District": "Rasuwa",
+    "Population (2011)": "9,421",
+    "Area (km2)": "192.54",
+    "Density": "49"
+  },
+  {
+    "Name": "Uttargaya",
+    "Nepali": "उत्तरगया",
+    "District": "Rasuwa",
+    "Population (2011)": "8,255",
+    "Area (km2)": "104.51",
+    "Density": "79"
+  },
+  {
+    "Name": "Gosaikund",
+    "Nepali": "गोसाईकुण्ड",
+    "District": "Rasuwa",
+    "Population (2011)": "7,143",
+    "Area (km2)": "978.77",
+    "Density": "7"
+  },
+  {
+    "Name": "Aamachodingmo",
+    "Nepali": "आमाछोदिङमो",
+    "District": "Rasuwa",
+    "Population (2011)": "5,490",
+    "Area (km2)": "682.23",
+    "Density": "8"
+  },
+  {
+    "Name": "Tinpatan",
+    "Nepali": "तिनपाटन",
+    "District": "Sindhuli",
+    "Population (2011)": "38,395",
+    "Area (km2)": "280.26",
+    "Density": "137"
+  },
+  {
+    "Name": "Marin",
+    "Nepali": "मरिण",
+    "District": "Sindhuli",
+    "Population (2011)": "27,822",
+    "Area (km2)": "324.55",
+    "Density": "86"
+  },
+  {
+    "Name": "Hariharpurgadhi",
+    "Nepali": "हरिहरपुरगढी",
+    "District": "Sindhuli",
+    "Population (2011)": "27,727",
+    "Area (km2)": "343.9",
+    "Density": "81"
+  },
+  {
+    "Name": "Sunkoshi",
+    "Nepali": "सुनकोशी",
+    "District": "Sindhuli",
+    "Population (2011)": "21,473",
+    "Area (km2)": "154.68",
+    "Density": "139"
+  },
+  {
+    "Name": "Golanjor",
+    "Nepali": "गोलन्जोर",
+    "District": "Sindhuli",
+    "Population (2011)": "19,329",
+    "Area (km2)": "184.13",
+    "Density": "105"
+  },
+  {
+    "Name": "Phikkal",
+    "Nepali": "फिक्कल",
+    "District": "Sindhuli",
+    "Population (2011)": "16,968",
+    "Area (km2)": "186.06",
+    "Density": "91"
+  },
+  {
+    "Name": "Ghyanglekh",
+    "Nepali": "घ्याङलेख",
+    "District": "Sindhuli",
+    "Population (2011)": "13,661",
+    "Area (km2)": "166.77",
+    "Density": "82"
+  },
+  {
+    "Name": "Indrawati",
+    "Nepali": "र्इन्द्रावती",
+    "District": "Sindhupalchok",
+    "Population (2011)": "28,517",
+    "Area (km2)": "105.09",
+    "Density": "271"
+  },
+  {
+    "Name": "Panchpokhari Thangpal",
+    "Nepali": "पाँचपोखरी थाङपाल",
+    "District": "Sindhupalchok",
+    "Population (2011)": "20,860",
+    "Area (km2)": "187.29",
+    "Density": "111"
+  },
+  {
+    "Name": "Jugal",
+    "Nepali": "जुगल",
+    "District": "Sindhupalchok",
+    "Population (2011)": "19,231",
+    "Area (km2)": "273.62",
+    "Density": "70"
+  },
+  {
+    "Name": "Balephi",
+    "Nepali": "बलेफी",
+    "District": "Sindhupalchok",
+    "Population (2011)": "18,909",
+    "Area (km2)": "61.6",
+    "Density": "307"
+  },
+  {
+    "Name": "Helambu",
+    "Nepali": "हेलम्बु",
+    "District": "Sindhupalchok",
+    "Population (2011)": "17,671",
+    "Area (km2)": "287.26",
+    "Density": "62"
+  },
+  {
+    "Name": "Bhotekoshi",
+    "Nepali": "भोटेकोशी",
+    "District": "Sindhupalchok",
+    "Population (2011)": "17,156",
+    "Area (km2)": "278.31",
+    "Density": "62"
+  },
+  {
+    "Name": "Sunkoshi",
+    "Nepali": "सुनकोशी",
+    "District": "Sindhupalchok",
+    "Population (2011)": "16,713",
+    "Area (km2)": "72.84",
+    "Density": "229"
+  },
+  {
+    "Name": "Lisankhu Pakhar",
+    "Nepali": "लिसंखु पाखर",
+    "District": "Sindhupalchok",
+    "Population (2011)": "15,155",
+    "Area (km2)": "98.61",
+    "Density": "154"
+  },
+  {
+    "Name": "Tripura Sundari",
+    "Nepali": "त्रिपुरासुन्दरी",
+    "District": "Sindhupalchok",
+    "Population (2011)": "15,062",
+    "Area (km2)": "94.28",
+    "Density": "160"
+  }
+]
