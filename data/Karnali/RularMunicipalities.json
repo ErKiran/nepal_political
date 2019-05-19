@@ -1,542 +1,434 @@
 [
-    {
-        "#": "1",
-        "Name": "Gurans",
-        "Nepali": "गुराँस",
-        "District": "Dailekh",
-        "Population (2011)": "22,033",
-        "Area (km2)": "164.79",
-        "Density": "134",
-        "Website": ""
-    },
-    {
-        "#": "2",
-        "Name": "Bhairabi",
-        "Nepali": "भैरवी",
-        "District": "Dailekh",
-        "Population (2011)": "21,233",
-        "Area (km2)": "110.46",
-        "Density": "192",
-        "Website": ""
-    },
-    {
-        "#": "3",
-        "Name": "Naumule",
-        "Nepali": "नौमुले",
-        "District": "Dailekh",
-        "Population (2011)": "20,802",
-        "Area (km2)": "228.59",
-        "Density": "91",
-        "Website": ""
-    },
-    {
-        "#": "4",
-        "Name": "Mahabu",
-        "Nepali": "महावु",
-        "District": "Dailekh",
-        "Population (2011)": "19,277",
-        "Area (km2)": "110.8",
-        "Density": "174",
-        "Website": ""
-    },
-    {
-        "#": "5",
-        "Name": "Thantikandh",
-        "Nepali": "ठाँटीकाँध",
-        "District": "Dailekh",
-        "Population (2011)": "18,896",
-        "Area (km2)": "88.22",
-        "Density": "214",
-        "Website": ""
-    },
-    {
-        "#": "6",
-        "Name": "Bhagawatimai",
-        "Nepali": "भगवतीमाई",
-        "District": "Dailekh",
-        "Population (2011)": "18,778",
-        "Area (km2)": "151.52",
-        "Density": "124",
-        "Website": ""
-    },
-    {
-        "#": "7",
-        "Name": "Dungeshwar",
-        "Nepali": "डुंगेश्वर",
-        "District": "Dailekh",
-        "Population (2011)": "15,883",
-        "Area (km2)": "105.19",
-        "Density": "151",
-        "Website": ""
-    },
-    {
-        "#": "8",
-        "Name": "Mudkechula",
-        "Nepali": "मुड्केचुला",
-        "District": "Dolpa",
-        "Population (2011)": "5,129",
-        "Area (km2)": "250.08",
-        "Density": "21",
-        "Website": ""
-    },
-    {
-        "#": "9",
-        "Name": "Kaike",
-        "Nepali": "काईके",
-        "District": "Dolpa",
-        "Population (2011)": "3,576",
-        "Area (km2)": "466.6",
-        "Density": "8",
-        "Website": ""
-    },
-    {
-        "#": "10",
-        "Name": "She Phoksundo",
-        "Nepali": "शे फोक्सुन्डो",
-        "District": "Dolpa",
-        "Population (2011)": "3,099",
-        "Area (km2)": "123.07",
-        "Density": "25",
-        "Website": ""
-    },
-    {
-        "#": "11",
-        "Name": "Jagadulla",
-        "Nepali": "जगदुल्ला",
-        "District": "Dolpa",
-        "Population (2011)": "2,273",
-        "Area (km2)": "83.3",
-        "Density": "27",
-        "Website": ""
-    },
-    {
-        "#": "12",
-        "Name": "Dolpo Buddha",
-        "Nepali": "डोल्पो बुद्ध",
-        "District": "Dolpa",
-        "Population (2011)": "2,126",
-        "Area (km2)": "377.38",
-        "Density": "6",
-        "Website": ""
-    },
-    {
-        "#": "13",
-        "Name": "Chharka Tangsong",
-        "Nepali": "छार्का ताङसोङ",
-        "District": "Dolpa",
-        "Population (2011)": "1,451",
-        "Area (km2)": "345.57",
-        "Density": "4",
-        "Website": ""
-    },
-    {
-        "#": "14",
-        "Name": "Simkot",
-        "Nepali": "सिमकोट",
-        "District": "Humla",
-        "Population (2011)": "11,557",
-        "Area (km2)": "785.89",
-        "Density": "15",
-        "Website": ""
-    },
-    {
-        "#": "15",
-        "Name": "Sarkegad",
-        "Nepali": "सर्केगाड",
-        "District": "Humla",
-        "Population (2011)": "9,868",
-        "Area (km2)": "306.7",
-        "Density": "32",
-        "Website": ""
-    },
-    {
-        "#": "16",
-        "Name": "Adanchuli",
-        "Nepali": "अदानचुली",
-        "District": "Humla",
-        "Population (2011)": "7,116",
-        "Area (km2)": "150.61",
-        "Density": "47",
-        "Website": ""
-    },
-    {
-        "#": "17",
-        "Name": "Kharpunath",
-        "Nepali": "खार्पुनाथ",
-        "District": "Humla",
-        "Population (2011)": "6,011",
-        "Area (km2)": "880",
-        "Density": "7",
-        "Website": ""
-    },
-    {
-        "#": "18",
-        "Name": "Tanjakot",
-        "Nepali": "ताँजाकोट",
-        "District": "Humla",
-        "Population (2011)": "5,964",
-        "Area (km2)": "159.1",
-        "Density": "37",
-        "Website": ""
-    },
-    {
-        "#": "19",
-        "Name": "Chankheli",
-        "Nepali": "चंखेली",
-        "District": "Humla",
-        "Population (2011)": "5,517",
-        "Area (km2)": "1,310.41",
-        "Density": "4",
-        "Website": ""
-    },
-    {
-        "#": "20",
-        "Name": "Namkha",
-        "Nepali": "नाम्खा",
-        "District": "Humla",
-        "Population (2011)": "3,900",
-        "Area (km2)": "2,419.64",
-        "Density": "2",
-        "Website": ""
-    },
-    {
-        "#": "21",
-        "Name": "Junichande",
-        "Nepali": "जुनीचाँदे",
-        "District": "Jajarkot",
-        "Population (2011)": "21,733",
-        "Area (km2)": "346.21",
-        "Density": "63",
-        "Website": ""
-    },
-    {
-        "#": "22",
-        "Name": "Kuse",
-        "Nepali": "कुसे",
-        "District": "Jajarkot",
-        "Population (2011)": "20,621",
-        "Area (km2)": "273.97",
-        "Density": "75",
-        "Website": ""
-    },
-    {
-        "#": "23",
-        "Name": "Barekot",
-        "Nepali": "बारेकोट",
-        "District": "Jajarkot",
-        "Population (2011)": "18,083",
-        "Area (km2)": "577.5",
-        "Density": "31",
-        "Website": ""
-    },
-    {
-        "#": "24",
-        "Name": "Shivalaya",
-        "Nepali": "शिवालय",
-        "District": "Jajarkot",
-        "Population (2011)": "15,269",
-        "Area (km2)": "134.26",
-        "Density": "114",
-        "Website": ""
-    },
-    {
-        "#": "25",
-        "Name": "Tatopani",
-        "Nepali": "तातोपानी",
-        "District": "Jumla",
-        "Population (2011)": "14,638",
-        "Area (km2)": "525.56",
-        "Density": "28",
-        "Website": ""
-    },
-    {
-        "#": "26",
-        "Name": "Patarasi",
-        "Nepali": "पातारासी",
-        "District": "Jumla",
-        "Population (2011)": "14,571",
-        "Area (km2)": "814.07",
-        "Density": "18",
-        "Website": ""
-    },
-    {
-        "#": "27",
-        "Name": "Tila",
-        "Nepali": "तिला",
-        "District": "Jumla",
-        "Population (2011)": "13,607",
-        "Area (km2)": "175.49",
-        "Density": "78",
-        "Website": ""
-    },
-    {
-        "#": "28",
-        "Name": "Kanaka Sundari",
-        "Nepali": "कनकासुन्दरी",
-        "District": "Jumla",
-        "Population (2011)": "12,977",
-        "Area (km2)": "225.39",
-        "Density": "58",
-        "Website": ""
-    },
-    {
-        "#": "29",
-        "Name": "Sinja",
-        "Nepali": "सिंजा",
-        "District": "Jumla",
-        "Population (2011)": "12,395",
-        "Area (km2)": "153.29",
-        "Density": "81",
-        "Website": ""
-    },
-    {
-        "#": "30",
-        "Name": "Hima",
-        "Nepali": "हिमा",
-        "District": "Jumla",
-        "Population (2011)": "10,961",
-        "Area (km2)": "132.32",
-        "Density": "83",
-        "Website": ""
-    },
-    {
-        "#": "31",
-        "Name": "Guthichaur",
-        "Nepali": "गुठिचौर",
-        "District": "Jumla",
-        "Population (2011)": "9,870",
-        "Area (km2)": "427",
-        "Density": "23",
-        "Website": ""
-    },
-    {
-        "#": "32",
-        "Name": "Narharinath",
-        "Nepali": "नरहरिनाथ",
-        "District": "Kalikot",
-        "Population (2011)": "21,366",
-        "Area (km2)": "143.86",
-        "Density": "149",
-        "Website": ""
-    },
-    {
-        "#": "33",
-        "Name": "Palata",
-        "Nepali": "पलाता",
-        "District": "Kalikot",
-        "Population (2011)": "15,303",
-        "Area (km2)": "318.84",
-        "Density": "48",
-        "Website": ""
-    },
-    {
-        "#": "34",
-        "Name": "Shubha Kalika",
-        "Nepali": "शुभ कालिका",
-        "District": "Kalikot",
-        "Population (2011)": "14,080",
-        "Area (km2)": "97.32",
-        "Density": "145",
-        "Website": ""
-    },
-    {
-        "#": "35",
-        "Name": "Sanni Triveni",
-        "Nepali": "सान्नी त्रिवेणी",
-        "District": "Kalikot",
-        "Population (2011)": "12,846",
-        "Area (km2)": "136.71",
-        "Density": "94",
-        "Website": ""
-    },
-    {
-        "#": "36",
-        "Name": "Pachaljharana",
-        "Nepali": "पचालझरना",
-        "District": "Kalikot",
-        "Population (2011)": "12,343",
-        "Area (km2)": "166.92",
-        "Density": "74",
-        "Website": ""
-    },
-    {
-        "#": "37",
-        "Name": "Mahawai",
-        "Nepali": "महावै",
-        "District": "Kalikot",
-        "Population (2011)": "8,323",
-        "Area (km2)": "322.07",
-        "Density": "26",
-        "Website": ""
-    },
-    {
-        "#": "38",
-        "Name": "Khatyad",
-        "Nepali": "खत्याड",
-        "District": "Mugu",
-        "Population (2011)": "17,116",
-        "Area (km2)": "281.12",
-        "Density": "61",
-        "Website": ""
-    },
-    {
-        "#": "39",
-        "Name": "Soru",
-        "Nepali": "सोरु",
-        "District": "Mugu",
-        "Population (2011)": "12,238",
-        "Area (km2)": "365.8",
-        "Density": "33",
-        "Website": ""
-    },
-    {
-        "#": "40",
-        "Name": "Mugum Karmarong",
-        "Nepali": "मुगुम कार्मारोंग",
-        "District": "Mugu",
-        "Population (2011)": "5,396",
-        "Area (km2)": "2,106.91",
-        "Density": "3",
-        "Website": ""
-    },
-    {
-        "#": "41",
-        "Name": "Sani Bheri",
-        "Nepali": "सानीभेरी",
-        "District": "Western Rukum",
-        "Population (2011)": "22,194",
-        "Area (km2)": "133.8",
-        "Density": "166",
-        "Website": ""
-    },
-    {
-        "#": "42",
-        "Name": "Triveni",
-        "Nepali": "त्रिवेणी",
-        "District": "Western Rukum",
-        "Population (2011)": "19,404",
-        "Area (km2)": "85.49",
-        "Density": "227",
-        "Website": ""
-    },
-    {
-        "#": "43",
-        "Name": "Banphikot",
-        "Nepali": "बाँफिकोट",
-        "District": "Western Rukum",
-        "Population (2011)": "18,696",
-        "Area (km2)": "190.42",
-        "Density": "98",
-        "Website": ""
-    },
-    {
-        "#": "44",
-        "Name": "Kumakh",
-        "Nepali": "कुमाख",
-        "District": "Salyan",
-        "Population (2011)": "24,972",
-        "Area (km2)": "177.28",
-        "Density": "141",
-        "Website": ""
-    },
-    {
-        "#": "45",
-        "Name": "Kalimati",
-        "Nepali": "कालीमाटी",
-        "District": "Salyan",
-        "Population (2011)": "23,005",
-        "Area (km2)": "500.72",
-        "Density": "46",
-        "Website": ""
-    },
-    {
-        "#": "46",
-        "Name": "Chhatreshwari",
-        "Nepali": "छत्रेश्वरी",
-        "District": "Salyan",
-        "Population (2011)": "21,452",
-        "Area (km2)": "150.69",
-        "Density": "142",
-        "Website": ""
-    },
-    {
-        "#": "47",
-        "Name": "Darma",
-        "Nepali": "दार्मा",
-        "District": "Salyan",
-        "Population (2011)": "19,966",
-        "Area (km2)": "81.46",
-        "Density": "245",
-        "Website": ""
-    },
-    {
-        "#": "48",
-        "Name": "Kapurkot",
-        "Nepali": "कपुरकोट",
-        "District": "Salyan",
-        "Population (2011)": "18,204",
-        "Area (km2)": "119.21",
-        "Density": "153",
-        "Website": ""
-    },
-    {
-        "#": "49",
-        "Name": "Triveni",
-        "Nepali": "त्रिवेणी",
-        "District": "Salyan",
-        "Population (2011)": "16,634",
-        "Area (km2)": "119.11",
-        "Density": "140",
-        "Website": ""
-    },
-    {
-        "#": "50",
-        "Name": "Siddha Kumakh",
-        "Nepali": "सिद्ध कुमाख",
-        "District": "Salyan",
-        "Population (2011)": "13,593",
-        "Area (km2)": "89.36",
-        "Density": "152",
-        "Website": ""
-    },
-    {
-        "#": "51",
-        "Name": "Barahatal",
-        "Nepali": "बराहताल",
-        "District": "Surkhet",
-        "Population (2011)": "26,802",
-        "Area (km2)": "455.09",
-        "Density": "59",
-        "Website": ""
-    },
-    {
-        "#": "52",
-        "Name": "Simta",
-        "Nepali": "सिम्ता",
-        "District": "Surkhet",
-        "Population (2011)": "25,845",
-        "Area (km2)": "241.64",
-        "Density": "10",
-        "Website": ""
-    },
-    {
-        "#": "53",
-        "Name": "Chaukune",
-        "Nepali": "चौकुने",
-        "District": "Surkhet",
-        "Population (2011)": "25,240",
-        "Area (km2)": "381.01",
-        "Density": "66",
-        "Website": ""
-    },
-    {
-        "#": "54",
-        "Name": "Chingad",
-        "Nepali": "चिङ्गाड",
-        "District": "Surkhet",
-        "Population (2011)": "17,275",
-        "Area (km2)": "170.19",
-        "Density": "102",
-        "Website": ""
-    }
+  {
+    "Name": "Gurans",
+    "Nepali": "गुराँस",
+    "District": "Dailekh",
+    "Population (2011)": "22,033",
+    "Area (km2)": "164.79",
+    "Density": "134"
+  },
+  {
+    "Name": "Bhairabi",
+    "Nepali": "भैरवी",
+    "District": "Dailekh",
+    "Population (2011)": "21,233",
+    "Area (km2)": "110.46",
+    "Density": "192"
+  },
+  {
+    "Name": "Naumule",
+    "Nepali": "नौमुले",
+    "District": "Dailekh",
+    "Population (2011)": "20,802",
+    "Area (km2)": "228.59",
+    "Density": "91"
+  },
+  {
+    "Name": "Mahabu",
+    "Nepali": "महावु",
+    "District": "Dailekh",
+    "Population (2011)": "19,277",
+    "Area (km2)": "110.8",
+    "Density": "174"
+  },
+  {
+    "Name": "Thantikandh",
+    "Nepali": "ठाँटीकाँध",
+    "District": "Dailekh",
+    "Population (2011)": "18,896",
+    "Area (km2)": "88.22",
+    "Density": "214"
+  },
+  {
+    "Name": "Bhagawatimai",
+    "Nepali": "भगवतीमाई",
+    "District": "Dailekh",
+    "Population (2011)": "18,778",
+    "Area (km2)": "151.52",
+    "Density": "124"
+  },
+  {
+    "Name": "Dungeshwar",
+    "Nepali": "डुंगेश्वर",
+    "District": "Dailekh",
+    "Population (2011)": "15,883",
+    "Area (km2)": "105.19",
+    "Density": "151"
+  },
+  {
+    "Name": "Mudkechula",
+    "Nepali": "मुड्केचुला",
+    "District": "Dolpa",
+    "Population (2011)": "5,129",
+    "Area (km2)": "250.08",
+    "Density": "21"
+  },
+  {
+    "Name": "Kaike",
+    "Nepali": "काईके",
+    "District": "Dolpa",
+    "Population (2011)": "3,576",
+    "Area (km2)": "466.6",
+    "Density": "8"
+  },
+  {
+    "Name": "She Phoksundo",
+    "Nepali": "शे फोक्सुन्डो",
+    "District": "Dolpa",
+    "Population (2011)": "3,099",
+    "Area (km2)": "123.07",
+    "Density": "25"
+  },
+  {
+    "Name": "Jagadulla",
+    "Nepali": "जगदुल्ला",
+    "District": "Dolpa",
+    "Population (2011)": "2,273",
+    "Area (km2)": "83.3",
+    "Density": "27"
+  },
+  {
+    "Name": "Dolpo Buddha",
+    "Nepali": "डोल्पो बुद्ध",
+    "District": "Dolpa",
+    "Population (2011)": "2,126",
+    "Area (km2)": "377.38",
+    "Density": "6"
+  },
+  {
+    "Name": "Chharka Tangsong",
+    "Nepali": "छार्का ताङसोङ",
+    "District": "Dolpa",
+    "Population (2011)": "1,451",
+    "Area (km2)": "345.57",
+    "Density": "4"
+  },
+  {
+    "Name": "Simkot",
+    "Nepali": "सिमकोट",
+    "District": "Humla",
+    "Population (2011)": "11,557",
+    "Area (km2)": "785.89",
+    "Density": "15"
+  },
+  {
+    "Name": "Sarkegad",
+    "Nepali": "सर्केगाड",
+    "District": "Humla",
+    "Population (2011)": "9,868",
+    "Area (km2)": "306.7",
+    "Density": "32"
+  },
+  {
+    "Name": "Adanchuli",
+    "Nepali": "अदानचुली",
+    "District": "Humla",
+    "Population (2011)": "7,116",
+    "Area (km2)": "150.61",
+    "Density": "47"
+  },
+  {
+    "Name": "Kharpunath",
+    "Nepali": "खार्पुनाथ",
+    "District": "Humla",
+    "Population (2011)": "6,011",
+    "Area (km2)": "880",
+    "Density": "7"
+  },
+  {
+    "Name": "Tanjakot",
+    "Nepali": "ताँजाकोट",
+    "District": "Humla",
+    "Population (2011)": "5,964",
+    "Area (km2)": "159.1",
+    "Density": "37"
+  },
+  {
+    "Name": "Chankheli",
+    "Nepali": "चंखेली",
+    "District": "Humla",
+    "Population (2011)": "5,517",
+    "Area (km2)": "1,310.41",
+    "Density": "4"
+  },
+  {
+    "Name": "Namkha",
+    "Nepali": "नाम्खा",
+    "District": "Humla",
+    "Population (2011)": "3,900",
+    "Area (km2)": "2,419.64",
+    "Density": "2"
+  },
+  {
+    "Name": "Junichande",
+    "Nepali": "जुनीचाँदे",
+    "District": "Jajarkot",
+    "Population (2011)": "21,733",
+    "Area (km2)": "346.21",
+    "Density": "63"
+  },
+  {
+    "Name": "Kuse",
+    "Nepali": "कुसे",
+    "District": "Jajarkot",
+    "Population (2011)": "20,621",
+    "Area (km2)": "273.97",
+    "Density": "75"
+  },
+  {
+    "Name": "Barekot",
+    "Nepali": "बारेकोट",
+    "District": "Jajarkot",
+    "Population (2011)": "18,083",
+    "Area (km2)": "577.5",
+    "Density": "31"
+  },
+  {
+    "Name": "Shivalaya",
+    "Nepali": "शिवालय",
+    "District": "Jajarkot",
+    "Population (2011)": "15,269",
+    "Area (km2)": "134.26",
+    "Density": "114"
+  },
+  {
+    "Name": "Tatopani",
+    "Nepali": "तातोपानी",
+    "District": "Jumla",
+    "Population (2011)": "14,638",
+    "Area (km2)": "525.56",
+    "Density": "28"
+  },
+  {
+    "Name": "Patarasi",
+    "Nepali": "पातारासी",
+    "District": "Jumla",
+    "Population (2011)": "14,571",
+    "Area (km2)": "814.07",
+    "Density": "18"
+  },
+  {
+    "Name": "Tila",
+    "Nepali": "तिला",
+    "District": "Jumla",
+    "Population (2011)": "13,607",
+    "Area (km2)": "175.49",
+    "Density": "78"
+  },
+  {
+    "Name": "Kanaka Sundari",
+    "Nepali": "कनकासुन्दरी",
+    "District": "Jumla",
+    "Population (2011)": "12,977",
+    "Area (km2)": "225.39",
+    "Density": "58"
+  },
+  {
+    "Name": "Sinja",
+    "Nepali": "सिंजा",
+    "District": "Jumla",
+    "Population (2011)": "12,395",
+    "Area (km2)": "153.29",
+    "Density": "81"
+  },
+  {
+    "Name": "Hima",
+    "Nepali": "हिमा",
+    "District": "Jumla",
+    "Population (2011)": "10,961",
+    "Area (km2)": "132.32",
+    "Density": "83"
+  },
+  {
+    "Name": "Guthichaur",
+    "Nepali": "गुठिचौर",
+    "District": "Jumla",
+    "Population (2011)": "9,870",
+    "Area (km2)": "427",
+    "Density": "23"
+  },
+  {
+    "Name": "Narharinath",
+    "Nepali": "नरहरिनाथ",
+    "District": "Kalikot",
+    "Population (2011)": "21,366",
+    "Area (km2)": "143.86",
+    "Density": "149"
+  },
+  {
+    "Name": "Palata",
+    "Nepali": "पलाता",
+    "District": "Kalikot",
+    "Population (2011)": "15,303",
+    "Area (km2)": "318.84",
+    "Density": "48"
+  },
+  {
+    "Name": "Shubha Kalika",
+    "Nepali": "शुभ कालिका",
+    "District": "Kalikot",
+    "Population (2011)": "14,080",
+    "Area (km2)": "97.32",
+    "Density": "145"
+  },
+  {
+    "Name": "Sanni Triveni",
+    "Nepali": "सान्नी त्रिवेणी",
+    "District": "Kalikot",
+    "Population (2011)": "12,846",
+    "Area (km2)": "136.71",
+    "Density": "94"
+  },
+  {
+    "Name": "Pachaljharana",
+    "Nepali": "पचालझरना",
+    "District": "Kalikot",
+    "Population (2011)": "12,343",
+    "Area (km2)": "166.92",
+    "Density": "74"
+  },
+  {
+    "Name": "Mahawai",
+    "Nepali": "महावै",
+    "District": "Kalikot",
+    "Population (2011)": "8,323",
+    "Area (km2)": "322.07",
+    "Density": "26"
+  },
+  {
+    "Name": "Khatyad",
+    "Nepali": "खत्याड",
+    "District": "Mugu",
+    "Population (2011)": "17,116",
+    "Area (km2)": "281.12",
+    "Density": "61"
+  },
+  {
+    "Name": "Soru",
+    "Nepali": "सोरु",
+    "District": "Mugu",
+    "Population (2011)": "12,238",
+    "Area (km2)": "365.8",
+    "Density": "33"
+  },
+  {
+    "Name": "Mugum Karmarong",
+    "Nepali": "मुगुम कार्मारोंग",
+    "District": "Mugu",
+    "Population (2011)": "5,396",
+    "Area (km2)": "2,106.91",
+    "Density": "3"
+  },
+  {
+    "Name": "Sani Bheri",
+    "Nepali": "सानीभेरी",
+    "District": "Western Rukum",
+    "Population (2011)": "22,194",
+    "Area (km2)": "133.8",
+    "Density": "166"
+  },
+  {
+    "Name": "Triveni",
+    "Nepali": "त्रिवेणी",
+    "District": "Western Rukum",
+    "Population (2011)": "19,404",
+    "Area (km2)": "85.49",
+    "Density": "227"
+  },
+  {
+    "Name": "Banphikot",
+    "Nepali": "बाँफिकोट",
+    "District": "Western Rukum",
+    "Population (2011)": "18,696",
+    "Area (km2)": "190.42",
+    "Density": "98"
+  },
+  {
+    "Name": "Kumakh",
+    "Nepali": "कुमाख",
+    "District": "Salyan",
+    "Population (2011)": "24,972",
+    "Area (km2)": "177.28",
+    "Density": "141"
+  },
+  {
+    "Name": "Kalimati",
+    "Nepali": "कालीमाटी",
+    "District": "Salyan",
+    "Population (2011)": "23,005",
+    "Area (km2)": "500.72",
+    "Density": "46"
+  },
+  {
+    "Name": "Chhatreshwari",
+    "Nepali": "छत्रेश्वरी",
+    "District": "Salyan",
+    "Population (2011)": "21,452",
+    "Area (km2)": "150.69",
+    "Density": "142"
+  },
+  {
+    "Name": "Darma",
+    "Nepali": "दार्मा",
+    "District": "Salyan",
+    "Population (2011)": "19,966",
+    "Area (km2)": "81.46",
+    "Density": "245"
+  },
+  {
+    "Name": "Kapurkot",
+    "Nepali": "कपुरकोट",
+    "District": "Salyan",
+    "Population (2011)": "18,204",
+    "Area (km2)": "119.21",
+    "Density": "153"
+  },
+  {
+    "Name": "Triveni",
+    "Nepali": "त्रिवेणी",
+    "District": "Salyan",
+    "Population (2011)": "16,634",
+    "Area (km2)": "119.11",
+    "Density": "140"
+  },
+  {
+    "Name": "Siddha Kumakh",
+    "Nepali": "सिद्ध कुमाख",
+    "District": "Salyan",
+    "Population (2011)": "13,593",
+    "Area (km2)": "89.36",
+    "Density": "152"
+  },
+  {
+    "Name": "Barahatal",
+    "Nepali": "बराहताल",
+    "District": "Surkhet",
+    "Population (2011)": "26,802",
+    "Area (km2)": "455.09",
+    "Density": "59"
+  },
+  {
+    "Name": "Simta",
+    "Nepali": "सिम्ता",
+    "District": "Surkhet",
+    "Population (2011)": "25,845",
+    "Area (km2)": "241.64",
+    "Density": "10"
+  },
+  {
+    "Name": "Chaukune",
+    "Nepali": "चौकुने",
+    "District": "Surkhet",
+    "Population (2011)": "25,240",
+    "Area (km2)": "381.01",
+    "Density": "66"
+  },
+  {
+    "Name": "Chingad",
+    "Nepali": "चिङ्गाड",
+    "District": "Surkhet",
+    "Population (2011)": "17,275",
+    "Area (km2)": "170.19",
+    "Density": "102"
+  }
 ]

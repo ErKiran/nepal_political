@@ -1,0 +1,62 @@
+[
+  {
+    "District": "Western Rukum",
+    "Headquarters": "Musikot",
+    "Area (km2.)": "1,213.49",
+    "Population": "154,272"
+  },
+  {
+    "District": "Salyan",
+    "Headquaters": "Salyan",
+    "Area": "1,462",
+    "population": "242,444"
+  },
+  {
+    "District": "Surkhet",
+    "Headquaters": "Birendranagar",
+    "Area": "2,451",
+    "population": "350,804"
+  },
+  {
+    "District": "Dailekh",
+    "Headquaters": "Narayan",
+    "Area": "1,502",
+    "population": "261,770"
+  },
+  {
+    "District": "Jajarkot",
+    "Headquaters": "Khalanga",
+    "Area": "2,230",
+    "population": "171,304"
+  },
+  {
+    "District": "Dolpa",
+    "Headquaters": "Dunai",
+    "Area": "7,889",
+    "population": "36,700"
+  },
+  {
+    "District": "Jumla",
+    "Headquaters": "Chandannath",
+    "Area": "2,531",
+    "population": "108,921"
+  },
+  {
+    "District": "Kalikot",
+    "Headquaters": "Manma",
+    "Area": "1,741",
+    "population": "136,948"
+  },
+  {
+    "District": "Mugu",
+    "Headquaters": "Gamgadhi",
+    "Area": "3,535",
+    "population": "55,286"
+  },
+  {
+    "District": "Humla",
+    "Headquaters": "Simikot",
+    "Area": "5,655",
+    "population": "50,858"
+  }
+]
