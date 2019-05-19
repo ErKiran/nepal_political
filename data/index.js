@@ -1,5 +1,5 @@
 const fs = require('fs');
-const NepalMun = require('./Nepal/TrimedMun');
+const NepalMun = require('./json/Nepal/TrimedMun');
 /*const Kath = NepalMun.filter(i => i.Province == "Province No. 3")
 fs.writeFileSync('Province3Municipalities.json', JSON.stringify(Kath, null, 2))*/
 
