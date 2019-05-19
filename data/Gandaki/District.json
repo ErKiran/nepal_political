@@ -1,0 +1,68 @@
+[
+  {
+    "District": "Gorkha",
+    "Headquarters": "Gorkha",
+    "Area": "3,610",
+    "Population": "271,061"
+  },
+  {
+    "District": "Lamjung",
+    "Headquarters": "Besisahar",
+    "Area": "1,692",
+    "Population": "167,724"
+  },
+  {
+    "District": "Tanahun",
+    "Headquarters": "Byas",
+    "Area": "1,546",
+    "Population": "323,288"
+  },
+  {
+    "District": "Syangja",
+    "Headquarters": "Putalibazar",
+    "Area": "1,164",
+    "Population": "289,148"
+  },
+  {
+    "District": "Kaski",
+    "Headquarters": "Pokhara",
+    "Area": "2,017",
+    "Population": "492,098"
+  },
+  {
+    "District": "Manang",
+    "Headquarters": "Chame",
+    "Area": "2,246",
+    "Population": "6,538"
+  },
+  {
+    "District": "Mustang",
+    "Headquarters": "Jomsom",
+    "Area": "3,573",
+    "Population": "13,452"
+  },
+  {
+    "District": "Myagdi",
+    "Headquarters": "Beni",
+    "Area": "2,297",
+    "Population": "113,641"
+  },
+  {
+    "District": "Nawalpur",
+    "Headquarters": "Kawasoti",
+    "Area": "1,043.1",
+    "Population": "310,864"
+  },
+  {
+    "District": "Parbat",
+    "Headquarters": "Kusma",
+    "Area": "494",
+    "Population": "146,590"
+  },
+  {
+    "District": "Baglung",
+    "Headquarters": "Baglung",
+    "Area": "1,784",
+    "Population": "268,613"
+  }
+]

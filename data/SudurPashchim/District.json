@@ -1,0 +1,56 @@
+[
+  {
+    "District": "Bajura",
+    "Headquarters": "Martadi",
+    "Area (km2.)": "2,188",
+    "Population": "134,912"
+  },
+  {
+    "District": "Bajhang",
+    "Headquarters": "Jayaprithvi",
+    "Area": "3,422",
+    "Population": "195,159"
+  },
+  {
+    "District": "Achham",
+    "Headquarters": "Mangalsen",
+    "Area": "1,680",
+    "Population": "257,477"
+  },
+  {
+    "District": "Doti",
+    "Headquarters": "Dipayal Silgadhi",
+    "Area": "2,025",
+    "Population": "211,746"
+  },
+  {
+    "District": "Kailali",
+    "Headquarters": "Dhangadhi",
+    "Area": "3,235",
+    "Population": "775,709"
+  },
+  {
+    "District": "Kanchanpur",
+    "Headquarters": "Bhimdatta",
+    "Area": "1,610",
+    "Population": "451,248"
+  },
+  {
+    "District": "Dadeldhura",
+    "Headquarters": "Amargadhi",
+    "Area": "1,538",
+    "Population": "142,094"
+  },
+  {
+    "District": "Baitadi",
+    "Headquarters": "Dasharathchand",
+    "Area": "1,519",
+    "Population": "250,898"
+  },
+  {
+    "District": "Darchula",
+    "Headquarters": "Api",
+    "Area": "2,322",
+    "Population": "133,274"
+  }
+]

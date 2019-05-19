@@ -1,542 +1,434 @@
 [
-    {
-        "#": "1",
-        "Name": "Ramaroshan",
-        "Nepali": "रामारोशन",
-        "District": "Achham",
-        "Population (2011)": "25,166",
-        "Area (km2)": "173.33",
-        "Density": "145",
-        "Website": ""
-    },
-    {
-        "#": "2",
-        "Name": "Chaurpati",
-        "Nepali": "चौरपाटी",
-        "District": "Achham",
-        "Population (2011)": "25,149",
-        "Area (km2)": "182.16",
-        "Density": "138",
-        "Website": ""
-    },
-    {
-        "#": "3",
-        "Name": "Turmakhand",
-        "Nepali": "तुर्माखाँद",
-        "District": "Achham",
-        "Population (2011)": "24,940",
-        "Area (km2)": "232.07",
-        "Density": "107",
-        "Website": ""
-    },
-    {
-        "#": "4",
-        "Name": "Mellekh",
-        "Nepali": "मेल्लेख",
-        "District": "Achham",
-        "Population (2011)": "24,670",
-        "Area (km2)": "134.78",
-        "Density": "183",
-        "Website": ""
-    },
-    {
-        "#": "5",
-        "Name": "Dhankari",
-        "Nepali": "ढँकारी",
-        "District": "Achham",
-        "Population (2011)": "21,562",
-        "Area (km2)": "227.88",
-        "Density": "95",
-        "Website": ""
-    },
-    {
-        "#": "6",
-        "Name": "Bannigadi Jayagad",
-        "Nepali": "बान्नीगडीजैगड",
-        "District": "Achham",
-        "Population (2011)": "17,359",
-        "Area (km2)": "58.26",
-        "Density": "298",
-        "Website": ""
-    },
-    {
-        "#": "7",
-        "Name": "Dogdakedar",
-        "Nepali": "दोगडाकेदार",
-        "District": "Baitadi",
-        "Population (2011)": "24,632",
-        "Area (km2)": "126.38",
-        "Density": "195",
-        "Website": ""
-    },
-    {
-        "#": "8",
-        "Name": "Dilashaini",
-        "Nepali": "डिलाशैनी",
-        "District": "Baitadi",
-        "Population (2011)": "22,924",
-        "Area (km2)": "125.28",
-        "Density": "183",
-        "Website": ""
-    },
-    {
-        "#": "9",
-        "Name": "Sigas",
-        "Nepali": "सिगास",
-        "District": "Baitadi",
-        "Population (2011)": "21,510",
-        "Area (km2)": "245.44",
-        "Density": "88",
-        "Website": ""
-    },
-    {
-        "#": "10",
-        "Name": "Pancheshwar",
-        "Nepali": "पञ्चेश्वर",
-        "District": "Baitadi",
-        "Population (2011)": "18,766",
-        "Area (km2)": "120.41",
-        "Density": "156",
-        "Website": ""
-    },
-    {
-        "#": "11",
-        "Name": "Surnaya",
-        "Nepali": "सुर्नया",
-        "District": "Baitadi",
-        "Population (2011)": "18,549",
-        "Area (km2)": "124.52",
-        "Density": "149",
-        "Website": ""
-    },
-    {
-        "#": "12",
-        "Name": "Shivanath",
-        "Nepali": "शिवनाथ",
-        "District": "Baitadi",
-        "Population (2011)": "17,115",
-        "Area (km2)": "81.65",
-        "Density": "210",
-        "Website": ""
-    },
-    {
-        "#": "13",
-        "Name": "Kedarsyu",
-        "Nepali": "केदारस्यु",
-        "District": "Bajhang",
-        "Population (2011)": "21,307",
-        "Area (km2)": "113.91",
-        "Density": "187",
-        "Website": ""
-    },
-    {
-        "#": "14",
-        "Name": "Thalara",
-        "Nepali": "थलारा",
-        "District": "Bajhang",
-        "Population (2011)": "17,952",
-        "Area (km2)": "105.51",
-        "Density": "170",
-        "Website": ""
-    },
-    {
-        "#": "15",
-        "Name": "Bitthadchir",
-        "Nepali": "बित्थडचिर",
-        "District": "Bajhang",
-        "Population (2011)": "17,154",
-        "Area (km2)": "86.15",
-        "Density": "199",
-        "Website": ""
-    },
-    {
-        "#": "16",
-        "Name": "Chhabis Pathibhera",
-        "Nepali": "छब्बीसपाथिभेरा",
-        "District": "Bajhang",
-        "Population (2011)": "16,296",
-        "Area (km2)": "116.34",
-        "Density": "140",
-        "Website": ""
-    },
-    {
-        "#": "17",
-        "Name": "Chhanna",
-        "Nepali": "छान्ना",
-        "District": "Bajhang",
-        "Population (2011)": "15,893",
-        "Area (km2)": "113.52",
-        "Density": "140",
-        "Website": ""
-    },
-    {
-        "#": "18",
-        "Name": "Masta",
-        "Nepali": "मष्टा",
-        "District": "Bajhang",
-        "Population (2011)": "14,951",
-        "Area (km2)": "109.24",
-        "Density": "137",
-        "Website": ""
-    },
-    {
-        "#": "19",
-        "Name": "Durgathali",
-        "Nepali": "दुर्गाथली",
-        "District": "Bajhang",
-        "Population (2011)": "12,972",
-        "Area (km2)": "61.83",
-        "Density": "210",
-        "Website": ""
-    },
-    {
-        "#": "20",
-        "Name": "Talkot",
-        "Nepali": "तलकोट",
-        "District": "Bajhang",
-        "Population (2011)": "11,557",
-        "Area (km2)": "335.26",
-        "Density": "34",
-        "Website": ""
-    },
-    {
-        "#": "21",
-        "Name": "Surma",
-        "Nepali": "सुर्मा",
-        "District": "Bajhang",
-        "Population (2011)": "9,022",
-        "Area (km2)": "270.8",
-        "Density": "33",
-        "Website": ""
-    },
-    {
-        "#": "22",
-        "Name": "Saipal",
-        "Nepali": "सइपाल",
-        "District": "Bajhang",
-        "Population (2011)": "2,182",
-        "Area (km2)": "1,467.27",
-        "Density": "2",
-        "Website": ""
-    },
-    {
-        "#": "23",
-        "Name": "Khaptad Chhededaha",
-        "Nepali": "खप्तड छेडेदह",
-        "District": "Bajura",
-        "Population (2011)": "18,575",
-        "Area (km2)": "135.08",
-        "Density": "138",
-        "Website": ""
-    },
-    {
-        "#": "24",
-        "Name": "Swami Kartik Khapar",
-        "Nepali": "स्वामिकार्तिक खापर",
-        "District": "Bajura",
-        "Population (2011)": "12,784",
-        "Area (km2)": "110.55",
-        "Density": "116",
-        "Website": ""
-    },
-    {
-        "#": "25",
-        "Name": "Jagannath",
-        "Nepali": "जगन्नाथ",
-        "District": "Bajura",
-        "Population (2011)": "9,432",
-        "Area (km2)": "171.72",
-        "Density": "55",
-        "Website": ""
-    },
-    {
-        "#": "26",
-        "Name": "Himali",
-        "Nepali": "हिमाली",
-        "District": "Bajura",
-        "Population (2011)": "9214",
-        "Area (km2)": "830.33",
-        "Density": "11",
-        "Website": ""
-    },
-    {
-        "#": "27",
-        "Name": "Gaumul",
-        "Nepali": "गौमुल",
-        "District": "Bajura",
-        "Population (2011)": "8,515",
-        "Area (km2)": "314.66",
-        "Density": "27",
-        "Website": ""
-    },
-    {
-        "#": "28",
-        "Name": "Navadurga",
-        "Nepali": "नवदुर्गा",
-        "District": "Dadeldhura",
-        "Population (2011)": "19,957",
-        "Area (km2)": "141.89",
-        "Density": "141",
-        "Website": ""
-    },
-    {
-        "#": "29",
-        "Name": "Aalitaal",
-        "Nepali": "आलिताल",
-        "District": "Dadeldhura",
-        "Population (2011)": "18,531",
-        "Area (km2)": "292.87",
-        "Density": "63",
-        "Website": ""
-    },
-    {
-        "#": "30",
-        "Name": "Ganyapadhura",
-        "Nepali": "गन्यापधुरा",
-        "District": "Dadeldhura",
-        "Population (2011)": "15,093",
-        "Area (km2)": "135.65",
-        "Density": "111",
-        "Website": ""
-    },
-    {
-        "#": "31",
-        "Name": "Bhageshwar",
-        "Nepali": "भागेश्वर",
-        "District": "Dadeldhura",
-        "Population (2011)": "14,129",
-        "Area (km2)": "233.38",
-        "Density": "61",
-        "Website": ""
-    },
-    {
-        "#": "32",
-        "Name": "Ajaymeru",
-        "Nepali": "अजयमेरु",
-        "District": "Dadeldhura",
-        "Population (2011)": "7,066",
-        "Area (km2)": "148.9",
-        "Density": "47",
-        "Website": ""
-    },
-    {
-        "#": "33",
-        "Name": "Naugad",
-        "Nepali": "नौगाड",
-        "District": "Darchula",
-        "Population (2011)": "15,874",
-        "Area (km2)": "180.27",
-        "Density": "88",
-        "Website": ""
-    },
-    {
-        "#": "34",
-        "Name": "Malikarjun",
-        "Nepali": "मालिकार्जुन",
-        "District": "Darchula",
-        "Population (2011)": "15,581",
-        "Area (km2)": "100.82",
-        "Density": "155",
-        "Website": ""
-    },
-    {
-        "#": "35",
-        "Name": "Marma",
-        "Nepali": "मार्मा",
-        "District": "Darchula",
-        "Population (2011)": "14,956",
-        "Area (km2)": "208.06",
-        "Density": "72",
-        "Website": ""
-    },
-    {
-        "#": "36",
-        "Name": "Lekam",
-        "Nepali": "लेकम",
-        "District": "Darchula",
-        "Population (2011)": "14,838",
-        "Area (km2)": "83.98",
-        "Density": "177",
-        "Website": ""
-    },
-    {
-        "#": "37",
-        "Name": "Duhu",
-        "Nepali": "दुहु",
-        "District": "Darchula",
-        "Population (2011)": "10,818",
-        "Area (km2)": "65.35",
-        "Density": "166",
-        "Website": ""
-    },
-    {
-        "#": "38",
-        "Name": "Vyans",
-        "Nepali": "ब्याँस",
-        "District": "Darchula",
-        "Population (2011)": "10,347",
-        "Area (km2)": "839.26",
-        "Density": "12",
-        "Website": ""
-    },
-    {
-        "#": "39",
-        "Name": "Api Himal",
-        "Nepali": "अपि हिमाल",
-        "District": "Darchula",
-        "Population (2011)": "6,779",
-        "Area (km2)": "613.95",
-        "Density": "11",
-        "Website": ""
-    },
-    {
-        "#": "40",
-        "Name": "Aadarsha",
-        "Nepali": "आदर्श",
-        "District": "Doti",
-        "Population (2011)": "23,945",
-        "Area (km2)": "128.47",
-        "Density": "186",
-        "Website": ""
-    },
-    {
-        "#": "41",
-        "Name": "Purbichauki",
-        "Nepali": "पूर्वीचौकी",
-        "District": "Doti",
-        "Population (2011)": "22,483",
-        "Area (km2)": "117.66",
-        "Density": "191",
-        "Website": ""
-    },
-    {
-        "#": "42",
-        "Name": "K.I. Singh",
-        "Nepali": "केआईसिंह",
-        "District": "Doti",
-        "Population (2011)": "20,903",
-        "Area (km2)": "127.01",
-        "Density": "165",
-        "Website": ""
-    },
-    {
-        "#": "43",
-        "Name": "Jorayal",
-        "Nepali": "जोरायल",
-        "District": "Doti",
-        "Population (2011)": "20,824",
-        "Area (km2)": "419.09",
-        "Density": "50",
-        "Website": ""
-    },
-    {
-        "#": "44",
-        "Name": "Sayal",
-        "Nepali": "सायल",
-        "District": "Doti",
-        "Population (2011)": "19,551",
-        "Area (km2)": "122.72",
-        "Density": "159",
-        "Website": ""
-    },
-    {
-        "#": "45",
-        "Name": "Bogatan-Fudsil",
-        "Nepali": "वोगटान–फुड्सिल",
-        "District": "Doti",
-        "Population (2011)": "17,902",
-        "Area (km2)": "300.22",
-        "Density": "60",
-        "Website": ""
-    },
-    {
-        "#": "46",
-        "Name": "Badikedar",
-        "Nepali": "बड्डी केदार",
-        "District": "Doti",
-        "Population (2011)": "16,720",
-        "Area (km2)": "332.55",
-        "Density": "50",
-        "Website": ""
-    },
-    {
-        "#": "47",
-        "Name": "Janaki Rural Municipality",
-        "Nepali": "जानकी",
-        "District": "Kailali",
-        "Population (2011)": "48,540",
-        "Area (km2)": "107.27",
-        "Density": "453",
-        "Website": ""
-    },
-    {
-        "#": "48",
-        "Name": "Kailari Rural Municipality",
-        "Nepali": "कैलारी",
-        "District": "Kailali",
-        "Population (2011)": "47,987",
-        "Area (km2)": "233.27",
-        "Density": "206",
-        "Website": ""
-    },
-    {
-        "#": "49",
-        "Name": "Joshipur",
-        "Nepali": "जोशीपुर",
-        "District": "Kailali",
-        "Population (2011)": "36,459",
-        "Area (km2)": "65.57",
-        "Density": "556",
-        "Website": ""
-    },
-    {
-        "#": "50",
-        "Name": "Bardagoriya Rural Municipality",
-        "Nepali": "बर्गगोरिया",
-        "District": "Kailali",
-        "Population (2011)": "32,683",
-        "Area (km2)": "77.26",
-        "Density": "423",
-        "Website": ""
-    },
-    {
-        "#": "51",
-        "Name": "Mohanyal Rural Municipality",
-        "Nepali": "मोहन्याल",
-        "District": "Kailali",
-        "Population (2011)": "22,053",
-        "Area (km2)": "626.95",
-        "Density": "35",
-        "Website": ""
-    },
-    {
-        "#": "52",
-        "Name": "Chure Rural Municipality",
-        "Nepali": "चुरे",
-        "District": "Kailali",
-        "Population (2011)": "18,924",
-        "Area (km2)": "493.18",
-        "Density": "38",
-        "Website": ""
-    },
-    {
-        "#": "53",
-        "Name": "Laljhadi",
-        "Nepali": "लालझाँडी",
-        "District": "Kanchanpur",
-        "Population (2011)": "22,569",
-        "Area (km2)": "154.65",
-        "Density": "146",
-        "Website": ""
-    },
-    {
-        "#": "54",
-        "Name": "Beldandi",
-        "Nepali": "बेलडाँडी",
-        "District": "Kanchanpur",
-        "Population (2011)": "21,949",
-        "Area (km2)": "36.7",
-        "Density": "598",
-        "Website": ""
-    }
+  {
+    "Name": "Ramaroshan",
+    "Nepali": "रामारोशन",
+    "District": "Achham",
+    "Population (2011)": "25,166",
+    "Area (km2)": "173.33",
+    "Density": "145"
+  },
+  {
+    "Name": "Chaurpati",
+    "Nepali": "चौरपाटी",
+    "District": "Achham",
+    "Population (2011)": "25,149",
+    "Area (km2)": "182.16",
+    "Density": "138"
+  },
+  {
+    "Name": "Turmakhand",
+    "Nepali": "तुर्माखाँद",
+    "District": "Achham",
+    "Population (2011)": "24,940",
+    "Area (km2)": "232.07",
+    "Density": "107"
+  },
+  {
+    "Name": "Mellekh",
+    "Nepali": "मेल्लेख",
+    "District": "Achham",
+    "Population (2011)": "24,670",
+    "Area (km2)": "134.78",
+    "Density": "183"
+  },
+  {
+    "Name": "Dhankari",
+    "Nepali": "ढँकारी",
+    "District": "Achham",
+    "Population (2011)": "21,562",
+    "Area (km2)": "227.88",
+    "Density": "95"
+  },
+  {
+    "Name": "Bannigadi Jayagad",
+    "Nepali": "बान्नीगडीजैगड",
+    "District": "Achham",
+    "Population (2011)": "17,359",
+    "Area (km2)": "58.26",
+    "Density": "298"
+  },
+  {
+    "Name": "Dogdakedar",
+    "Nepali": "दोगडाकेदार",
+    "District": "Baitadi",
+    "Population (2011)": "24,632",
+    "Area (km2)": "126.38",
+    "Density": "195"
+  },
+  {
+    "Name": "Dilashaini",
+    "Nepali": "डिलाशैनी",
+    "District": "Baitadi",
+    "Population (2011)": "22,924",
+    "Area (km2)": "125.28",
+    "Density": "183"
+  },
+  {
+    "Name": "Sigas",
+    "Nepali": "सिगास",
+    "District": "Baitadi",
+    "Population (2011)": "21,510",
+    "Area (km2)": "245.44",
+    "Density": "88"
+  },
+  {
+    "Name": "Pancheshwar",
+    "Nepali": "पञ्चेश्वर",
+    "District": "Baitadi",
+    "Population (2011)": "18,766",
+    "Area (km2)": "120.41",
+    "Density": "156"
+  },
+  {
+    "Name": "Surnaya",
+    "Nepali": "सुर्नया",
+    "District": "Baitadi",
+    "Population (2011)": "18,549",
+    "Area (km2)": "124.52",
+    "Density": "149"
+  },
+  {
+    "Name": "Shivanath",
+    "Nepali": "शिवनाथ",
+    "District": "Baitadi",
+    "Population (2011)": "17,115",
+    "Area (km2)": "81.65",
+    "Density": "210"
+  },
+  {
+    "Name": "Kedarsyu",
+    "Nepali": "केदारस्यु",
+    "District": "Bajhang",
+    "Population (2011)": "21,307",
+    "Area (km2)": "113.91",
+    "Density": "187"
+  },
+  {
+    "Name": "Thalara",
+    "Nepali": "थलारा",
+    "District": "Bajhang",
+    "Population (2011)": "17,952",
+    "Area (km2)": "105.51",
+    "Density": "170"
+  },
+  {
+    "Name": "Bitthadchir",
+    "Nepali": "बित्थडचिर",
+    "District": "Bajhang",
+    "Population (2011)": "17,154",
+    "Area (km2)": "86.15",
+    "Density": "199"
+  },
+  {
+    "Name": "Chhabis Pathibhera",
+    "Nepali": "छब्बीसपाथिभेरा",
+    "District": "Bajhang",
+    "Population (2011)": "16,296",
+    "Area (km2)": "116.34",
+    "Density": "140"
+  },
+  {
+    "Name": "Chhanna",
+    "Nepali": "छान्ना",
+    "District": "Bajhang",
+    "Population (2011)": "15,893",
+    "Area (km2)": "113.52",
+    "Density": "140"
+  },
+  {
+    "Name": "Masta",
+    "Nepali": "मष्टा",
+    "District": "Bajhang",
+    "Population (2011)": "14,951",
+    "Area (km2)": "109.24",
+    "Density": "137"
+  },
+  {
+    "Name": "Durgathali",
+    "Nepali": "दुर्गाथली",
+    "District": "Bajhang",
+    "Population (2011)": "12,972",
+    "Area (km2)": "61.83",
+    "Density": "210"
+  },
+  {
+    "Name": "Talkot",
+    "Nepali": "तलकोट",
+    "District": "Bajhang",
+    "Population (2011)": "11,557",
+    "Area (km2)": "335.26",
+    "Density": "34"
+  },
+  {
+    "Name": "Surma",
+    "Nepali": "सुर्मा",
+    "District": "Bajhang",
+    "Population (2011)": "9,022",
+    "Area (km2)": "270.8",
+    "Density": "33"
+  },
+  {
+    "Name": "Saipal",
+    "Nepali": "सइपाल",
+    "District": "Bajhang",
+    "Population (2011)": "2,182",
+    "Area (km2)": "1,467.27",
+    "Density": "2"
+  },
+  {
+    "Name": "Khaptad Chhededaha",
+    "Nepali": "खप्तड छेडेदह",
+    "District": "Bajura",
+    "Population (2011)": "18,575",
+    "Area (km2)": "135.08",
+    "Density": "138"
+  },
+  {
+    "Name": "Swami Kartik Khapar",
+    "Nepali": "स्वामिकार्तिक खापर",
+    "District": "Bajura",
+    "Population (2011)": "12,784",
+    "Area (km2)": "110.55",
+    "Density": "116"
+  },
+  {
+    "Name": "Jagannath",
+    "Nepali": "जगन्नाथ",
+    "District": "Bajura",
+    "Population (2011)": "9,432",
+    "Area (km2)": "171.72",
+    "Density": "55"
+  },
+  {
+    "Name": "Himali",
+    "Nepali": "हिमाली",
+    "District": "Bajura",
+    "Population (2011)": "9214",
+    "Area (km2)": "830.33",
+    "Density": "11"
+  },
+  {
+    "Name": "Gaumul",
+    "Nepali": "गौमुल",
+    "District": "Bajura",
+    "Population (2011)": "8,515",
+    "Area (km2)": "314.66",
+    "Density": "27"
+  },
+  {
+    "Name": "Navadurga",
+    "Nepali": "नवदुर्गा",
+    "District": "Dadeldhura",
+    "Population (2011)": "19,957",
+    "Area (km2)": "141.89",
+    "Density": "141"
+  },
+  {
+    "Name": "Aalitaal",
+    "Nepali": "आलिताल",
+    "District": "Dadeldhura",
+    "Population (2011)": "18,531",
+    "Area (km2)": "292.87",
+    "Density": "63"
+  },
+  {
+    "Name": "Ganyapadhura",
+    "Nepali": "गन्यापधुरा",
+    "District": "Dadeldhura",
+    "Population (2011)": "15,093",
+    "Area (km2)": "135.65",
+    "Density": "111"
+  },
+  {
+    "Name": "Bhageshwar",
+    "Nepali": "भागेश्वर",
+    "District": "Dadeldhura",
+    "Population (2011)": "14,129",
+    "Area (km2)": "233.38",
+    "Density": "61"
+  },
+  {
+    "Name": "Ajaymeru",
+    "Nepali": "अजयमेरु",
+    "District": "Dadeldhura",
+    "Population (2011)": "7,066",
+    "Area (km2)": "148.9",
+    "Density": "47"
+  },
+  {
+    "Name": "Naugad",
+    "Nepali": "नौगाड",
+    "District": "Darchula",
+    "Population (2011)": "15,874",
+    "Area (km2)": "180.27",
+    "Density": "88"
+  },
+  {
+    "Name": "Malikarjun",
+    "Nepali": "मालिकार्जुन",
+    "District": "Darchula",
+    "Population (2011)": "15,581",
+    "Area (km2)": "100.82",
+    "Density": "155"
+  },
+  {
+    "Name": "Marma",
+    "Nepali": "मार्मा",
+    "District": "Darchula",
+    "Population (2011)": "14,956",
+    "Area (km2)": "208.06",
+    "Density": "72"
+  },
+  {
+    "Name": "Lekam",
+    "Nepali": "लेकम",
+    "District": "Darchula",
+    "Population (2011)": "14,838",
+    "Area (km2)": "83.98",
+    "Density": "177"
+  },
+  {
+    "Name": "Duhu",
+    "Nepali": "दुहु",
+    "District": "Darchula",
+    "Population (2011)": "10,818",
+    "Area (km2)": "65.35",
+    "Density": "166"
+  },
+  {
+    "Name": "Vyans",
+    "Nepali": "ब्याँस",
+    "District": "Darchula",
+    "Population (2011)": "10,347",
+    "Area (km2)": "839.26",
+    "Density": "12"
+  },
+  {
+    "Name": "Api Himal",
+    "Nepali": "अपि हिमाल",
+    "District": "Darchula",
+    "Population (2011)": "6,779",
+    "Area (km2)": "613.95",
+    "Density": "11"
+  },
+  {
+    "Name": "Aadarsha",
+    "Nepali": "आदर्श",
+    "District": "Doti",
+    "Population (2011)": "23,945",
+    "Area (km2)": "128.47",
+    "Density": "186"
+  },
+  {
+    "Name": "Purbichauki",
+    "Nepali": "पूर्वीचौकी",
+    "District": "Doti",
+    "Population (2011)": "22,483",
+    "Area (km2)": "117.66",
+    "Density": "191"
+  },
+  {
+    "Name": "K.I. Singh",
+    "Nepali": "केआईसिंह",
+    "District": "Doti",
+    "Population (2011)": "20,903",
+    "Area (km2)": "127.01",
+    "Density": "165"
+  },
+  {
+    "Name": "Jorayal",
+    "Nepali": "जोरायल",
+    "District": "Doti",
+    "Population (2011)": "20,824",
+    "Area (km2)": "419.09",
+    "Density": "50"
+  },
+  {
+    "Name": "Sayal",
+    "Nepali": "सायल",
+    "District": "Doti",
+    "Population (2011)": "19,551",
+    "Area (km2)": "122.72",
+    "Density": "159"
+  },
+  {
+    "Name": "Bogatan-Fudsil",
+    "Nepali": "वोगटान–फुड्सिल",
+    "District": "Doti",
+    "Population (2011)": "17,902",
+    "Area (km2)": "300.22",
+    "Density": "60"
+  },
+  {
+    "Name": "Badikedar",
+    "Nepali": "बड्डी केदार",
+    "District": "Doti",
+    "Population (2011)": "16,720",
+    "Area (km2)": "332.55",
+    "Density": "50"
+  },
+  {
+    "Name": "Janaki Rural Municipality",
+    "Nepali": "जानकी",
+    "District": "Kailali",
+    "Population (2011)": "48,540",
+    "Area (km2)": "107.27",
+    "Density": "453"
+  },
+  {
+    "Name": "Kailari Rural Municipality",
+    "Nepali": "कैलारी",
+    "District": "Kailali",
+    "Population (2011)": "47,987",
+    "Area (km2)": "233.27",
+    "Density": "206"
+  },
+  {
+    "Name": "Joshipur",
+    "Nepali": "जोशीपुर",
+    "District": "Kailali",
+    "Population (2011)": "36,459",
+    "Area (km2)": "65.57",
+    "Density": "556"
+  },
+  {
+    "Name": "Bardagoriya Rural Municipality",
+    "Nepali": "बर्गगोरिया",
+    "District": "Kailali",
+    "Population (2011)": "32,683",
+    "Area (km2)": "77.26",
+    "Density": "423"
+  },
+  {
+    "Name": "Mohanyal Rural Municipality",
+    "Nepali": "मोहन्याल",
+    "District": "Kailali",
+    "Population (2011)": "22,053",
+    "Area (km2)": "626.95",
+    "Density": "35"
+  },
+  {
+    "Name": "Chure Rural Municipality",
+    "Nepali": "चुरे",
+    "District": "Kailali",
+    "Population (2011)": "18,924",
+    "Area (km2)": "493.18",
+    "Density": "38"
+  },
+  {
+    "Name": "Laljhadi",
+    "Nepali": "लालझाँडी",
+    "District": "Kanchanpur",
+    "Population (2011)": "22,569",
+    "Area (km2)": "154.65",
+    "Density": "146"
+  },
+  {
+    "Name": "Beldandi",
+    "Nepali": "बेलडाँडी",
+    "District": "Kanchanpur",
+    "Population (2011)": "21,949",
+    "Area (km2)": "36.7",
+    "Density": "598"
+  }
 ]

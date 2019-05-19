@@ -1,0 +1,114 @@
+[
+  {
+    "Name": "Bhojpur District",
+    "Nepali": "भोजपुर जिल्ला",
+    "Headquarters": "Bhojpur",
+    "Geocode": "106",
+    "Population (2011)": "182,459",
+    "Area": "1,507 km²"
+  },
+  {
+    "Name": "Dhankuta District",
+    "Nepali": "धनकुटा जिल्ला",
+    "Headquarters": "Dhankuta",
+    "Geocode": "107",
+    "Population (2011)": "163,412",
+    "Area": "0,892 km²"
+  },
+  {
+    "Name": "Ilam District",
+    "Nepali": "इलाम जिल्ला",
+    "Headquarters": "Ilam",
+    "Geocode": "110",
+    "Population (2011)": "290,254",
+    "Area": "1,703 km²"
+  },
+  {
+    "Name": "Jhapa District",
+    "Nepali": "झापा जिल्ला",
+    "Headquarters": "Bhadrapur",
+    "Geocode": "111",
+    "Population (2011)": "812,650",
+    "Area": "1,606 km²"
+  },
+  {
+    "Name": "Khotang District",
+    "Nepali": "खोटाँग जिल्ला",
+    "Headquarters": "Diktel",
+    "Geocode": "105",
+    "Population (2011)": "206,312",
+    "Area": "1,591 km²"
+  },
+  {
+    "Name": "Morang District",
+    "Nepali": "मोरंग जिल्ला",
+    "Headquarters": "Biratnagar",
+    "Geocode": "112",
+    "Population (2011)": "965,370",
+    "Area": "1,855 km²"
+  },
+  {
+    "Name": "Okhaldhunga District",
+    "Nepali": "ओखलढुंगा जिल्ला",
+    "Headquarters": "Siddhicharan",
+    "Geocode": "104",
+    "Population (2011)": "147,984",
+    "Area": "1,074 km²"
+  },
+  {
+    "Name": "Panchthar District",
+    "Nepali": "पांचथर जिल्ला",
+    "Headquarters": "Phidim",
+    "Geocode": "109",
+    "Population (2011)": "191,817",
+    "Area": "1,241 km²"
+  },
+  {
+    "Name": "Sankhuwasabha District",
+    "Nepali": "संखुवासभा जिल्ला",
+    "Headquarters": "Khandbari",
+    "Geocode": "102",
+    "Population (2011)": "158,742",
+    "Area": "3,480 km²"
+  },
+  {
+    "Name": "Solukhumbu District",
+    "Nepali": "सोलुखुम्बू जिल्ला",
+    "Headquarters": "Salleri",
+    "Geocode": "103",
+    "Population (2011)": "105,886",
+    "Area": "3,312 km²"
+  },
+  {
+    "Name": "Sunsari District",
+    "Nepali": "सुनसरी जिल्ला",
+    "Headquarters": "Inaruwa",
+    "Geocode": "113",
+    "Population (2011)": "763,497",
+    "Area": "1,257 km²"
+  },
+  {
+    "Name": "Taplejung District",
+    "Nepali": "ताप्लेजुंग जिल्ला",
+    "Headquarters": "Taplejung",
+    "Geocode": "101",
+    "Population (2011)": "127,461",
+    "Area": "3,646 km²"
+  },
+  {
+    "Name": "Terhathum District",
+    "Nepali": "तेह्रथुम जिल्ला",
+    "Headquarters": "Myanglung",
+    "Geocode": "108",
+    "Population (2011)": "113,111",
+    "Area": "0,679 km²"
+  },
+  {
+    "Name": "Udayapur District",
+    "Nepali": "उदयपुर जिल्ला",
+    "Headquarters": "Gaighat",
+    "Geocode": "114",
+    "Population (2011)": "317,532",
+    "Area": "2,063 km²"
+  }
+]

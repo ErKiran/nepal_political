@@ -1,0 +1,74 @@
+[
+  {
+    "District": "Gulmi",
+    "Headquarters": "Resunga",
+    "Area": "1,149",
+    "Population": "280,160"
+  },
+  {
+    "District": "Palpa",
+    "Headquarters": "Tansen",
+    "Area": "1,373",
+    "Population": "261,180"
+  },
+  {
+    "District": "Parasi",
+    "Headquarters": "Ramgram",
+    "Area": "634.88",
+    "Population": "321,058"
+  },
+  {
+    "District": "Rupandehi",
+    "Headquarters": "Siddharthanagar",
+    "Area": "1,360",
+    "Population": "880,196"
+  },
+  {
+    "District": "Kapilvastu",
+    "Headquarters": "Kapilvastu",
+    "Area": "1,738",
+    "Population": "571,936"
+  },
+  {
+    "District": "Arghakhanchi",
+    "Headquarters": "Sandhikharka",
+    "Area": "1,193",
+    "Population": "197,632"
+  },
+  {
+    "District": "Pyuthan",
+    "Headquarters": "Pyuthan",
+    "Area": "1,309",
+    "Population": "228,102"
+  },
+  {
+    "District": "Rolpa",
+    "Headquarters": "Liwang",
+    "Area": "1,879",
+    "Population": "224,506"
+  },
+  {
+    "District": "Eastern Rukum",
+    "Headquarters": "Rukumkot",
+    "Area": "1,161.13",
+    "Population": "53,018"
+  },
+  {
+    "District": "Banke",
+    "Headquarters": "Nepalganj",
+    "Area": "2,337",
+    "Population": "491,313"
+  },
+  {
+    "District": "Bardiya",
+    "Headquarters": "Gulariya",
+    "Area": "2,025",
+    "Population": "426,576"
+  },
+  {
+    "District": "Dang",
+    "Headquarters": "Tribhuwannagar",
+    "Area": "2,955",
+    "Population": "552,583"
+  }
+]
