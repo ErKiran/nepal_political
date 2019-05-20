@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Bhojpur District",
+    "Name": "Bhojpur",
     "Nepali": "भोजपुर जिल्ला",
     "Headquarters": "Bhojpur",
     "Geocode": "106",
@@ -8,7 +8,7 @@
     "Area": "1,507 km²"
   },
   {
-    "Name": "Dhankuta District",
+    "Name": "Dhankuta",
     "Nepali": "धनकुटा जिल्ला",
     "Headquarters": "Dhankuta",
     "Geocode": "107",
@@ -16,7 +16,7 @@
     "Area": "0,892 km²"
   },
   {
-    "Name": "Ilam District",
+    "Name": "Ilam",
     "Nepali": "इलाम जिल्ला",
     "Headquarters": "Ilam",
     "Geocode": "110",
@@ -24,7 +24,7 @@
     "Area": "1,703 km²"
   },
   {
-    "Name": "Jhapa District",
+    "Name": "Jhapa",
     "Nepali": "झापा जिल्ला",
     "Headquarters": "Bhadrapur",
     "Geocode": "111",
@@ -32,7 +32,7 @@
     "Area": "1,606 km²"
   },
   {
-    "Name": "Khotang District",
+    "Name": "Khotang",
     "Nepali": "खोटाँग जिल्ला",
     "Headquarters": "Diktel",
     "Geocode": "105",
@@ -40,7 +40,7 @@
     "Area": "1,591 km²"
   },
   {
-    "Name": "Morang District",
+    "Name": "Morang",
     "Nepali": "मोरंग जिल्ला",
     "Headquarters": "Biratnagar",
     "Geocode": "112",
@@ -48,7 +48,7 @@
     "Area": "1,855 km²"
   },
   {
-    "Name": "Okhaldhunga District",
+    "Name": "Okhaldhunga",
     "Nepali": "ओखलढुंगा जिल्ला",
     "Headquarters": "Siddhicharan",
     "Geocode": "104",
@@ -56,7 +56,7 @@
     "Area": "1,074 km²"
   },
   {
-    "Name": "Panchthar District",
+    "Name": "Panchthar",
     "Nepali": "पांचथर जिल्ला",
     "Headquarters": "Phidim",
     "Geocode": "109",
@@ -64,7 +64,7 @@
     "Area": "1,241 km²"
   },
   {
-    "Name": "Sankhuwasabha District",
+    "Name": "Sankhuwasabha",
     "Nepali": "संखुवासभा जिल्ला",
     "Headquarters": "Khandbari",
     "Geocode": "102",
@@ -72,7 +72,7 @@
     "Area": "3,480 km²"
   },
   {
-    "Name": "Solukhumbu District",
+    "Name": "Solukhumbu",
     "Nepali": "सोलुखुम्बू जिल्ला",
     "Headquarters": "Salleri",
     "Geocode": "103",
@@ -80,7 +80,7 @@
     "Area": "3,312 km²"
   },
   {
-    "Name": "Sunsari District",
+    "Name": "Sunsari",
     "Nepali": "सुनसरी जिल्ला",
     "Headquarters": "Inaruwa",
     "Geocode": "113",
@@ -88,7 +88,7 @@
     "Area": "1,257 km²"
   },
   {
-    "Name": "Taplejung District",
+    "Name": "Taplejung",
     "Nepali": "ताप्लेजुंग जिल्ला",
     "Headquarters": "Taplejung",
     "Geocode": "101",
@@ -96,7 +96,7 @@
     "Area": "3,646 km²"
   },
   {
-    "Name": "Terhathum District",
+    "Name": "Terhathum",
     "Nepali": "तेह्रथुम जिल्ला",
     "Headquarters": "Myanglung",
     "Geocode": "108",
@@ -104,7 +104,7 @@
     "Area": "0,679 km²"
   },
   {
-    "Name": "Udayapur District",
+    "Name": "Udayapur",
     "Nepali": "उदयपुर जिल्ला",
     "Headquarters": "Gaighat",
     "Geocode": "114",
