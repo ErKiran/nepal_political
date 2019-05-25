@@ -1,62 +1,112 @@
 [
   {
-    "District": "Western Rukum",
+    "Districts": "Western Rukum District",
+    "Nepali": "पश्चिमी रूकुम जिल्ला",
     "Headquarters": "Musikot",
-    "Area (km2.)": "1,213.49",
-    "Population": "154,272"
+    "Area (km2)": "1,213.49",
+    "Population (2011)[7]": "154,272",
+    "Officiaebsite": [
+      64
+    ]
   },
   {
-    "District": "Salyan",
-    "Headquaters": "Salyan",
-    "Area": "1,462",
-    "population": "242,444"
+    "Districts": "Salyan District",
+    "Nepali": "सल्यान जिल्ला",
+    "Headquarters": "Salyan",
+    "Area (km2)": "1,462",
+    "Population (2011)[7]": "242,444",
+    "Officiaebsite": [
+      65
+    ]
   },
   {
-    "District": "Surkhet",
-    "Headquaters": "Birendranagar",
-    "Area": "2,451",
-    "population": "350,804"
+    "Districts": "Dolpa District",
+    "Nepali": "डोल्पा जिल्ला",
+    "Headquarters": "Dunai",
+    "Area (km2)": "7,889",
+    "Population (2011)[7]": "36,700",
+    "Officiaebsite": [
+      66
+    ]
   },
   {
-    "District": "Dailekh",
-    "Headquaters": "Narayan",
-    "Area": "1,502",
-    "population": "261,770"
+    "Districts": "Humla District",
+    "Nepali": "हुम्ला जिल्ला",
+    "Headquarters": "Simikot",
+    "Area (km2)": "5,655",
+    "Population (2011)[7]": "50,858",
+    "Officiaebsite": [
+      67
+    ]
   },
   {
-    "District": "Jajarkot",
-    "Headquaters": "Khalanga",
-    "Area": "2,230",
-    "population": "171,304"
+    "Districts": "Jumla District",
+    "Nepali": "जुम्ला जिल्ला",
+    "Headquarters": "Chandannath",
+    "Area (km2)": "2,531",
+    "Population (2011)[7]": "108,921",
+    "Officiaebsite": [
+      68
+    ]
   },
   {
-    "District": "Dolpa",
-    "Headquaters": "Dunai",
-    "Area": "7,889",
-    "population": "36,700"
+    "Districts": "Kalikot District",
+    "Nepali": "कालिकोट जिल्ला",
+    "Headquarters": "Manma",
+    "Area (km2)": "1,741",
+    "Population (2011)[7]": "136,948",
+    "Officiaebsite": [
+      69
+    ]
   },
   {
-    "District": "Jumla",
-    "Headquaters": "Chandannath",
-    "Area": "2,531",
-    "population": "108,921"
+    "Districts": "Mugu District",
+    "Nepali": "मुगु जिल्ला",
+    "Headquarters": "Gamgadhi",
+    "Area (km2)": "3,535",
+    "Population (2011)[7]": "55,286",
+    "Officiaebsite": [
+      70
+    ]
   },
   {
-    "District": "Kalikot",
-    "Headquaters": "Manma",
-    "Area": "1,741",
-    "population": "136,948"
+    "Districts": "Surkhet District",
+    "Nepali": "सुर्खेत जिल्ला",
+    "Headquarters": "Birendranagar",
+    "Area (km2)": "2,451",
+    "Population (2011)[7]": "350,804",
+    "Officiaebsite": [
+      71
+    ]
   },
   {
-    "District": "Mugu",
-    "Headquaters": "Gamgadhi",
-    "Area": "3,535",
-    "population": "55,286"
+    "Districts": "Dailekh District",
+    "Nepali": "दैलेख जिल्ला",
+    "Headquarters": "Narayan",
+    "Area (km2)": "1,502",
+    "Population (2011)[7]": "261,770",
+    "Officiaebsite": [
+      72
+    ]
   },
   {
-    "District": "Humla",
-    "Headquaters": "Simikot",
-    "Area": "5,655",
-    "population": "50,858"
+    "Districts": "Jajarkot District",
+    "Nepali": "जाजरकोट जिल्ला",
+    "Headquarters": "Khalanga",
+    "Area (km2)": "2,230",
+    "Population (2011)[7]": "171,304",
+    "Officiaebsite": [
+      73
+    ]
+  },
+  {
+    "Districts": "Karnali Pradesh",
+    "Nepali": "कर्णाली प्रदेश",
+    "Headquarters": "Birendranagar",
+    "Area (km2)": "27,984 km²",
+    "Population (2011)[7]": "1,570,418",
+    "Officiaebsite": [
+      74
+    ]
   }
 ]
