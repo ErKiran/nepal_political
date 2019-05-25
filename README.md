@@ -1,6 +1,13 @@
-# nepal-administrative-
-JSON Data Representating Nepal Administrative Division
-This repo is primarily intened to make Nepal Administrative Data Programable and Easily used by Nepali Hackers Community. 
-All the files is in JSON format which can be used and integrated with Web/Mobile/Android App and Can be used for the analysis and Visualization Purpose. 
-I Will add use cases and clean and trim data as time goes on 🤞🤞
-Happy Hacking 🐱‍💻
+# nepal_political
+
+A mini 24.7KB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/result?p=nepal_political@1.1.0)
+
+### No any external dependicies. 
+## Usage
+```
+npm i nepal_political
+``` 
+
+
+
+
