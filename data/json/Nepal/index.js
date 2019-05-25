@@ -1,4 +1,8 @@
 const fs = require('fs');
 const District = require('./District.json');
-const trimmed = District.map(({ Geocode, ...rest }) => rest);
-fs.writeFileSync('./District.json', JSON.stringify(trimmed, null, 2))
+
+for (i = 0; i < District.length; i++) {
+    District[i].Name = District[i].Districts
+    delete District[i].Districts;
+}
+console.log(District);
