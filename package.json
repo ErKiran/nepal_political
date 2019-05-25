@@ -1,0 +1,32 @@
+{
+  "name": "nepal_political",
+  "version": "1.0.0",
+  "description": "This npm package has details about Nepal Political Administrative Info",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErKiran/nepal-administrative-.git"
+  },
+  "keywords": [
+    "Nepal",
+    "Nepal",
+    "Municipality",
+    "Nepal",
+    "Metro",
+    "Nepal",
+    "Rular",
+    "Municipality"
+  ],
+  "author": "Kiran Adhikari",
+  "license": "wtfpl",
+  "bugs": {
+    "url": "https://github.com/ErKiran/nepal-administrative-/issues"
+  },
+  "homepage": "https://github.com/ErKiran/nepal-administrative-#readme"
+}
