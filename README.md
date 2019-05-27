@@ -1,5 +1,5 @@
 # nepal_political
-![Logo](http://i67.tinypic.com/24obzg6.png)
+![Logo](http://i68.tinypic.com/iddumb.png)
 
 [![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political)
 ![CI](https://travis-ci.org/ErKiran/nepal_political.svg?branch=master)
@@ -21,6 +21,8 @@ const {Nepal} = require('nepal_political');
 or
 import {Nepal} from 'nepal_political');
 ```
+
+There is interactive GIS Based Website Developed by the goverment of Nepal. [Check Here](http://103.69.124.141/)
 
 ## Simple Usage Documentation
 
