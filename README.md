@@ -3,6 +3,7 @@
 
 [![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political)
 ![CI](https://travis-ci.org/ErKiran/nepal_political.svg?branch=master)
+![Thank](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 
 A mini 24.7KB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/result?p=nepal_political@1.1.0)
 
