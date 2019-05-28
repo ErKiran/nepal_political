@@ -77,7 +77,7 @@ Nepal.Metro()
 ```
 #### Get all Metropolitan Name in Nepali
 ```js
-Nepal.Metro()
+Nepal.MetroNepali()
 ```
 
 #### Get all Metropolitan  in Province No. 3
@@ -96,7 +96,7 @@ Nepal.SubMetro()
 ```
 #### Get all SubMetropolitan Name in Nepali
 ```js
-Nepal.SubMetro()
+Nepal.SubMetroNepali()
 ```
 
 #### Get all SubMetropolitan  in Province No. 3
@@ -116,7 +116,7 @@ Nepal.Municipalities()
 ```
 #### Get all Municipalities Name in Nepali
 ```js
-Nepal.Municipalities()
+Nepal.MunicipalitiesNepali()
 ```
 #### Get all Municipalities  in Province No. 3
 ```js
@@ -144,7 +144,7 @@ Nepal.RularMunicipalities()
 ```
 #### Get all RularMunicipalities Name in Nepali
 ```js
-Nepal.RularMunicipalities()
+Nepal.RularMunicipalitiesNepali()
 ```
 #### Get all RularMunicipalities  in Province No. 5
 ```js
