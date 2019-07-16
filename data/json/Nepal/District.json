@@ -5,7 +5,11 @@
     "Headquarters": "Bhojpur",
     "Population (2011)": "182,459",
     "Area(km2)": "1,507",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dhankuta",
@@ -13,7 +17,11 @@
     "Headquarters": "Dhankuta",
     "Population (2011)": "163,412",
     "Area(km2)": "0,892",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Ilam",
@@ -21,7 +29,11 @@
     "Headquarters": "Ilam",
     "Population (2011)": "290,254",
     "Area(km2)": "1,703",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Jhapa",
@@ -29,7 +41,11 @@
     "Headquarters": "Bhadrapur",
     "Population (2011)": "812,650",
     "Area(km2)": "1,606",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Khotang",
@@ -37,7 +53,11 @@
     "Headquarters": "Diktel",
     "Population (2011)": "206,312",
     "Area(km2)": "1,591",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Morang",
@@ -45,7 +65,12 @@
     "Headquarters": "Biratnagar",
     "Population (2011)": "965,370",
     "Area(km2)": "1,855",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Okhaldhunga",
@@ -53,7 +78,11 @@
     "Headquarters": "Siddhicharan",
     "Population (2011)": "147,984",
     "Area(km2)": "1,074",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Panchthar",
@@ -61,7 +90,11 @@
     "Headquarters": "Phidim",
     "Population (2011)": "191,817",
     "Area(km2)": "1,241",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Sankhuwasabha",
@@ -69,7 +102,11 @@
     "Headquarters": "Khandbari",
     "Population (2011)": "158,742",
     "Area(km2)": "3,480",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Solukhumbu",
@@ -77,7 +114,11 @@
     "Headquarters": "Salleri",
     "Population (2011)": "105,886",
     "Area(km2)": "3,312",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Sunsari",
@@ -85,7 +126,12 @@
     "Headquarters": "Inaruwa",
     "Population (2011)": "763,497",
     "Area(km2)": "1,257",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Taplejung",
@@ -93,7 +139,11 @@
     "Headquarters": "Taplejung",
     "Population (2011)": "127,461",
     "Area(km2)": "3,646",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Terhathum",
@@ -101,7 +151,11 @@
     "Headquarters": "Myanglung",
     "Population (2011)": "113,111",
     "Area(km2)": "0,679",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Udayapur",
@@ -109,7 +163,11 @@
     "Headquarters": "Gaighat",
     "Population (2011)": "317,532",
     "Area(km2)": "2,063",
-    "Province": "Province No. 1"
+    "Province": "Province No. 1",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Saptari District",
@@ -117,7 +175,11 @@
     "Headquarters": "Rajbiraj",
     "Population (2011)": "639,284",
     "Area(km2)": "1,363",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Parsa District",
@@ -125,7 +187,12 @@
     "Headquarters": "Birgunj",
     "Population (2011)": "601,017",
     "Area(km2)": "1,353",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Sarlahi District",
@@ -133,7 +200,11 @@
     "Headquarters": "Malangwa",
     "Population (2011)": "769,729",
     "Area(km2)": "1,259",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Bara District",
@@ -141,7 +212,12 @@
     "Headquarters": "Kalaiya",
     "Population (2011)": "687,708",
     "Area(km2)": "1,190",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Siraha District",
@@ -149,7 +225,11 @@
     "Headquarters": "Siraha",
     "Population (2011)": "637,328",
     "Area(km2)": "1,188",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dhanusha District",
@@ -157,7 +237,12 @@
     "Headquarters": "Janakpur",
     "Population (2011)": "754,777",
     "Area(km2)": "1,180",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Rautahat District",
@@ -165,7 +250,11 @@
     "Headquarters": "Gaur",
     "Population (2011)": "686,722",
     "Area(km2)": "1,126",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Mahottari District",
@@ -173,7 +262,11 @@
     "Headquarters": "Jaleshwar",
     "Population (2011)": "627,580",
     "Area(km2)": "1,002",
-    "Province": "Province No. 2"
+    "Province": "Province No. 2",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Sindhuli District",
@@ -181,7 +274,11 @@
     "Headquarters": "Kamalamai",
     "Area(km2)": "2,491",
     "Population (2011)": "296,192",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Ramechhap District",
@@ -189,7 +286,11 @@
     "Headquarters": "Manthali",
     "Area(km2)": "1,546",
     "Population (2011)": "202,646",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dolakha District",
@@ -197,7 +298,11 @@
     "Headquarters": "Bhimeshwar",
     "Area(km2)": "2,191",
     "Population (2011)": "186,557",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Bhaktapur District",
@@ -205,7 +310,10 @@
     "Headquarters": "Bhaktapur",
     "Area(km2)": 119,
     "Population (2011)": "304,651",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality"
+    ]
   },
   {
     "Name": "Dhading District",
@@ -213,7 +321,11 @@
     "Headquarters": "Nilkantha",
     "Area(km2)": "1,926",
     "Population (2011)": "336,067",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kathmandu District",
@@ -221,7 +333,11 @@
     "Headquarters": "Kathmandu",
     "Area(km2)": 395,
     "Population (2011)": "1,744,240",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Kavrepalanchok District",
@@ -229,7 +345,11 @@
     "Headquarters": "Dhulikhel",
     "Area(km2)": "1,396",
     "Population (2011)": "381,937",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Lalitpur District",
@@ -237,7 +357,12 @@
     "Headquarters": "Lalitpur",
     "Area(km2)": 385,
     "Population (2011)": "468,132",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Nuwakot District",
@@ -245,7 +370,11 @@
     "Headquarters": "Bidur",
     "Area(km2)": "1,121",
     "Population (2011)": "277,471",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Rasuwa District",
@@ -253,7 +382,11 @@
     "Headquarters": "Dhunche",
     "Area(km2)": "1,544",
     "Population (2011)": "43,300",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Sindhupalchok District",
@@ -261,7 +394,11 @@
     "Headquarters": "Chautara",
     "Area(km2)": "2,542",
     "Population (2011)": "287,798",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Chitwan District",
@@ -269,7 +406,12 @@
     "Headquarters": "Bharatpur",
     "Area(km2)": "2,218",
     "Population (2011)": "579,984",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Makwanpur District",
@@ -277,7 +419,12 @@
     "Headquarters": "Hetauda",
     "Area(km2)": "2,426",
     "Population (2011)": "420,477",
-    "Province": "Province No. 3"
+    "Province": "Province No. 3",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Baglung District",
@@ -285,7 +432,11 @@
     "Headquarters": "Baglung",
     "Area(km2)": "1,784",
     "Population (2011)": "268,613",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Gorkha District",
@@ -293,7 +444,11 @@
     "Headquarters": "Gorkha",
     "Area(km2)": "3,610",
     "Population (2011)": "271,061",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kaski District",
@@ -301,7 +456,12 @@
     "Headquarters": "Pokhara",
     "Area(km2)": "2,017",
     "Population (2011)": "492,098",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Metropolitan"
+    ]
   },
   {
     "Name": "Lamjung District",
@@ -309,7 +469,11 @@
     "Headquarters": "Besisahar",
     "Area(km2)": "1,692",
     "Population (2011)": "167,724",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Manang District",
@@ -317,7 +481,10 @@
     "Headquarters": "Chame",
     "Area(km2)": "2,246",
     "Population (2011)": "6,538",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Mustang District",
@@ -325,7 +492,10 @@
     "Headquarters": "Jomsom",
     "Area(km2)": "3,573",
     "Population (2011)": "13,452",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Myagdi District",
@@ -333,7 +503,11 @@
     "Headquarters": "Beni",
     "Area(km2)": "2,297",
     "Population (2011)": "113,641",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Nawalpur District",
@@ -341,7 +515,11 @@
     "Headquarters": "Kawasoti",
     "Area(km2)": "1,043.1",
     "Population (2011)": "310,864",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Parbat District",
@@ -349,7 +527,11 @@
     "Headquarters": "Kusma",
     "Area(km2)": 494,
     "Population (2011)": "146,590",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Syangja District",
@@ -357,7 +539,11 @@
     "Headquarters": "Putalibazar",
     "Area(km2)": "1,164",
     "Population (2011)": "289,148",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Tanahun District",
@@ -365,7 +551,11 @@
     "Headquarters": "Damauli",
     "Area(km2)": "1,546",
     "Population (2011)": "323,288",
-    "Province": "Gandaki"
+    "Province": "Gandaki",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kapilvastu District",
@@ -373,7 +563,11 @@
     "Headquarters": "Taulihawa",
     "Area(km2)": "1,738",
     "Population (2011)": "571,936",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Parasi District",
@@ -381,7 +575,11 @@
     "Headquarters": "Ramgram",
     "Area(km2)": 634.88,
     "Population (2011)": "321,058",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Rupandehi District",
@@ -389,7 +587,12 @@
     "Headquarters": "Siddharthanagar",
     "Area(km2)": "1,360",
     "Population (2011)": "880,196",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Arghakhanchi District",
@@ -397,7 +600,11 @@
     "Headquarters": "Sandhikharka",
     "Area(km2)": "1,193",
     "Population (2011)": "197,632",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Gulmi District",
@@ -405,7 +612,11 @@
     "Headquarters": "Tamghas",
     "Area(km2)": "1,149",
     "Population (2011)": "280,160",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Palpa District",
@@ -413,7 +624,11 @@
     "Headquarters": "Tansen",
     "Area(km2)": "1,373",
     "Population (2011)": "261,180",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dang District",
@@ -421,7 +636,12 @@
     "Headquarters": "Ghorahi",
     "Area(km2)": "2,955",
     "Population (2011)": "552,583",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Pyuthan District",
@@ -429,7 +649,11 @@
     "Headquarters": "Pyuthan",
     "Area(km2)": "1,309",
     "Population (2011)": "228,102",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Rolpa District",
@@ -437,7 +661,11 @@
     "Headquarters": "Liwang",
     "Area(km2)": "1,879",
     "Population (2011)": "224,506",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Eastern Rukum District",
@@ -445,7 +673,11 @@
     "Headquarters": "Rukumkot",
     "Area(km2)": "1,161.13",
     "Population (2011)": "53,018",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Banke District",
@@ -453,7 +685,12 @@
     "Headquarters": "Nepalganj",
     "Area(km2)": "2,337",
     "Population (2011)": "491,313",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Bardiya District",
@@ -461,7 +698,11 @@
     "Headquarters": "Gulariya",
     "Area(km2)": "2,025",
     "Population (2011)": "426,576",
-    "Province": "Province No. 5"
+    "Province": "Province No. 5",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Western Rukum District",
@@ -469,7 +710,11 @@
     "Headquarters": "Musikot",
     "Area(km2)": "1,213.49",
     "Population (2011)": "154,272",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Salyan District",
@@ -477,7 +722,11 @@
     "Headquarters": "Salyan",
     "Area(km2)": "1,462",
     "Population (2011)": "242,444",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dolpa District",
@@ -485,7 +734,11 @@
     "Headquarters": "Dunai",
     "Area(km2)": "7,889",
     "Population (2011)": "36,700",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Humla District",
@@ -493,7 +746,10 @@
     "Headquarters": "Simikot",
     "Area(km2)": "5,655",
     "Population (2011)": "50,858",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Jumla District",
@@ -501,7 +757,11 @@
     "Headquarters": "Chandannath",
     "Area(km2)": "2,531",
     "Population (2011)": "108,921",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kalikot District",
@@ -509,7 +769,11 @@
     "Headquarters": "Manma",
     "Area(km2)": "1,741",
     "Population (2011)": "136,948",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Mugu District",
@@ -517,7 +781,11 @@
     "Headquarters": "Gamgadhi",
     "Area(km2)": "3,535",
     "Population (2011)": "55,286",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Surkhet District",
@@ -525,7 +793,11 @@
     "Headquarters": "Birendranagar",
     "Area(km2)": "2,451",
     "Population (2011)": "350,804",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dailekh District",
@@ -533,7 +805,11 @@
     "Headquarters": "Narayan",
     "Area(km2)": "1,502",
     "Population (2011)": "261,770",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Jajarkot District",
@@ -541,7 +817,11 @@
     "Headquarters": "Khalanga",
     "Area(km2)": "2,230",
     "Population (2011)": "171,304",
-    "Province": "Karnali"
+    "Province": "Karnali",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kailali District",
@@ -549,7 +829,12 @@
     "Headquarters": "Dhangadhi",
     "Area(km2)": "3,235",
     "Population (2011)": "775,709",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality",
+      "Sub-Metropolitan"
+    ]
   },
   {
     "Name": "Achham District",
@@ -557,7 +842,11 @@
     "Headquarters": "Mangalsen",
     "Area(km2)": "1,680",
     "Population (2011)": "257,477",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Doti District",
@@ -565,7 +854,11 @@
     "Headquarters": "Dipayal Silgadhi",
     "Area(km2)": "2,025",
     "Population (2011)": "211,746",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Bajhang District",
@@ -573,7 +866,11 @@
     "Headquarters": "Jayaprithvi",
     "Area(km2)": "3,422",
     "Population (2011)": "195,159",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Bajura District",
@@ -581,7 +878,11 @@
     "Headquarters": "Martadi",
     "Area(km2)": "2,188",
     "Population (2011)": "134,912",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Kanchanpur District",
@@ -589,7 +890,11 @@
     "Headquarters": "Bhimdatta",
     "Area(km2)": "1,610",
     "Population (2011)": "451,248",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Dadeldhura District",
@@ -597,7 +902,11 @@
     "Headquarters": "Amargadhi",
     "Area(km2)": "1,538",
     "Population (2011)": "142,094",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Baitadi District",
@@ -605,7 +914,11 @@
     "Headquarters": "Dasharathchand",
     "Area(km2)": "1,519",
     "Population (2011)": "250,898",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   },
   {
     "Name": "Darchula District",
@@ -613,6 +926,10 @@
     "Headquarters": "Darchula",
     "Area(km2)": "2,322",
     "Population (2011)": "133,274",
-    "Province": "SudurPaschim"
+    "Province": "SudurPaschim",
+    "LocalBodiesType": [
+      "Municipality",
+      "Rular Municipality"
+    ]
   }
 ]
