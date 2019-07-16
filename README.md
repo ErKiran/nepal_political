@@ -163,4 +163,10 @@ Nepal.RularMunicipalitiesByDistrict('Kavrepalanchok')
 ```js
 Nepal.RularMunicipalitiesNepaliByDistrict('Kavrepalanchok')
 ```
+### Some G.K 
+#### 1. Which districts doesn't have Rular Municipalities? 
+##### => Kathmandu, Bhaktapur
+
+#### 2. Which districts doesn't have Municipalities?
+##### => Manang, Mustang, and Humla
 
