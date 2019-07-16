@@ -15,7 +15,8 @@ module.exports = {
     },
     LocalBodiesByDistrict: function LocalBodiesByDistrict(name) {
         const res = Districts.filter(i => i.Name === name);
-        return res.map(i => i.LocalBodiesType)
+        console.log(res)
+        return res.map(i => i.LocalBodiesType)[0]
     },
     DistrictNepali: function DistrictNepali() {
         return Districts.map(i => i.Nepali)
