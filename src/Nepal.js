@@ -13,19 +13,23 @@ module.exports = {
     District: function District() {
         return Districts.map(i => i.Name)
     },
+    LocalBodiesByDistrict: function LocalBodiesByDistrict(name) {
+        const res = Districts.filter(i => i.Name === name);
+        return res.map(i => i.LocalBodiesType)
+    },
     DistrictNepali: function DistrictNepali() {
         return Districts.map(i => i.Nepali)
     },
     DistrictByProvince: function DistrictByProvince(name) {
-        const res = Districts.filter(i => i.Province == name);
+        const res = Districts.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
     DistrictNepaliByProvince: function DistrictNepaliByProvince(name) {
-        const res = Districts.filter(i => i.Province == name);
+        const res = Districts.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
     },
     DistrictHeadquarters: function DistrictHeadquarters(name) {
-        const res = Districts.filter(i => i.Name == name);
+        const res = Districts.filter(i => i.Name === name);
         return res.map(i => i.Headquarters)[0];
     },
     Metro: function Metro() {
@@ -35,11 +39,11 @@ module.exports = {
         return Metros.map(i => i.Nepali)
     },
     MetroByProvince: function MetroByProvince(name) {
-        const res = Metros.filter(i => i.Province == name);
+        const res = Metros.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
     MetroNepaliByProvince: function MetroNepaliByProvince(name) {
-        const res = Metros.filter(i => i.Province == name);
+        const res = Metros.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
     },
     SubMetro: function SubMetro() {
@@ -49,11 +53,11 @@ module.exports = {
         return SubMetros.map(i => i.Nepali)
     },
     SubMetroByProvince: function SubMetroByProvince(name) {
-        const res = SubMetros.filter(i => i.Province == name);
+        const res = SubMetros.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
     SubMetroNepaliByProvince: function SubMetroNepaliByProvince(name) {
-        const res = SubMetros.filter(i => i.Province == name);
+        const res = SubMetros.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
     },
     Municipalities: function Municipalities() {
@@ -63,19 +67,19 @@ module.exports = {
         return Municipalitiess.map(i => i.Nepali)
     },
     MunicipalitiesByProvince: function MunicipalitiesByProvince(name) {
-        const res = Municipalitiess.filter(i => i.Province == name);
+        const res = Municipalitiess.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
     MunicipalitiesNepaliByProvince: function MunicipalitiesNepaliByProvince(name) {
-        const res = Municipalitiess.filter(i => i.Province == name);
+        const res = Municipalitiess.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
     },
     MunicipalitiesByDistrict: function MunicipalitiesByDistrict(name) {
-        const res = Municipalitiess.filter(i => i.District == name);
+        const res = Municipalitiess.filter(i => i.District === name);
         return res.map(i => i.Name);
     },
     MunicipalitiesNepaliByDistrict: function MunicipalitiesNepaliByDistrict(name) {
-        const res = Municipalitiess.filter(i => i.District == name);
+        const res = Municipalitiess.filter(i => i.District === name);
         return res.map(i => i.Nepali);
     },
     RularMunicipalities: function RularMunicipalities() {
@@ -85,19 +89,19 @@ module.exports = {
         return RularMunicipalitiess.map(i => i.Nepali)
     },
     RularMunicipalitiesByProvince: function RularMunicipalitiesByProvince(name) {
-        const res = RularMunicipalitiess.filter(i => i.Province == name);
+        const res = RularMunicipalitiess.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
     RularMunicipalitiesNepaliByProvince: function RularMunicipalitiesNepaliByProvince(name) {
-        const res = RularMunicipalitiess.filter(i => i.Province == name);
+        const res = RularMunicipalitiess.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
     },
     RularMunicipalitiesByDistrict: function RularMunicipalitiesByDistrict(name) {
-        const res = RularMunicipalitiess.filter(i => i.District == name);
+        const res = RularMunicipalitiess.filter(i => i.District === name);
         return res.map(i => i.Name);
     },
     RularMunicipalitiesNepaliByDistrict: function RularMunicipalitiesNepaliByDistrict(name) {
-        const res = RularMunicipalitiess.filter(i => i.District == name);
+        const res = RularMunicipalitiess.filter(i => i.District === name);
         return res.map(i => i.Nepali);
     }
 }
