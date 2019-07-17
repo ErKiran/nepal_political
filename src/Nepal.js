@@ -15,8 +15,7 @@ module.exports = {
     },
     LocalBodiesByDistrict: function LocalBodiesByDistrict(name) {
         const res = Districts.filter(i => i.Name === name);
-        console.log(res)
-        return res.map(i => i.LocalBodiesType)[0]
+        return res.map(i => i.LocalBodiesType)
     },
     DistrictNepali: function DistrictNepali() {
         return Districts.map(i => i.Nepali)
@@ -43,6 +42,14 @@ module.exports = {
         const res = Metros.filter(i => i.Province === name);
         return res.map(i => i.Name);
     },
+    MetroByDistrict: function MetroByDistrict(name) {
+        const res = Metros.filter(i => i.District === name);
+        return res.map(i => i.Name)
+    },
+    MetroNepaliByDistrict: function MetroNepaliByDistrict(name) {
+        const res = Metros.filter(i => i.District === name);
+        return res.map(i => i.Nepali)
+    },
     MetroNepaliByProvince: function MetroNepaliByProvince(name) {
         const res = Metros.filter(i => i.Province === name);
         return res.map(i => i.Nepali);
@@ -56,6 +63,14 @@ module.exports = {
     SubMetroByProvince: function SubMetroByProvince(name) {
         const res = SubMetros.filter(i => i.Province === name);
         return res.map(i => i.Name);
+    },
+    SubMetroNepaliByDistrict: function SubMetroNepaliByDistrict(name) {
+        const res = SubMetros.filter(i => i.District === name);
+        return res.map(i => i.Nepali)
+    },
+    SubMetroByDistrict: function SubMetroByDistrict(name) {
+        const res = SubMetros.filter(i => i.District === name);
+        return res.map(i => i.Name)
     },
     SubMetroNepaliByProvince: function SubMetroNepaliByProvince(name) {
         const res = SubMetros.filter(i => i.Province === name);
