@@ -5,7 +5,6 @@ const Municipalitiess = require('../data/json/Nepal/Municipalities.json');
 const RularMunicipalitiess = require('../data/json/Nepal/RularMunicipalities.json');
 const Provinces = require('../data/json/Nepal/Provinces.json');
 
-
 module.exports = {
     Province: function Province() {
         return Provinces.map(i => i.Provinces)

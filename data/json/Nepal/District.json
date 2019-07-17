@@ -170,7 +170,7 @@
     ]
   },
   {
-    "Name": "Saptari District",
+    "Name": "Saptari",
     "Nepali": "सप्तरी जिल्ला",
     "Headquarters": "Rajbiraj",
     "Population (2011)": "639,284",
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "Name": "Parsa District",
+    "Name": "Parsa",
     "Nepali": "पर्सा जिल्ला",
     "Headquarters": "Birgunj",
     "Population (2011)": "601,017",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "Name": "Sarlahi District",
+    "Name": "Sarlahi",
     "Nepali": "सर्लाही जिल्ला",
     "Headquarters": "Malangwa",
     "Population (2011)": "769,729",
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "Name": "Bara District",
+    "Name": "Bara",
     "Nepali": "बारा जिल्ला",
     "Headquarters": "Kalaiya",
     "Population (2011)": "687,708",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "Name": "Siraha District",
+    "Name": "Siraha",
     "Nepali": "सिराहा जिल्ला",
     "Headquarters": "Siraha",
     "Population (2011)": "637,328",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "Name": "Dhanusha District",
+    "Name": "Dhanusha",
     "Nepali": "धनुषा जिल्ला",
     "Headquarters": "Janakpur",
     "Population (2011)": "754,777",
@@ -245,7 +245,7 @@
     ]
   },
   {
-    "Name": "Rautahat District",
+    "Name": "Rautahat",
     "Nepali": "रौतहट जिल्ला",
     "Headquarters": "Gaur",
     "Population (2011)": "686,722",
@@ -257,7 +257,7 @@
     ]
   },
   {
-    "Name": "Mahottari District",
+    "Name": "Mahottari",
     "Nepali": "महोत्तरी जिल्ला",
     "Headquarters": "Jaleshwar",
     "Population (2011)": "627,580",
@@ -269,7 +269,7 @@
     ]
   },
   {
-    "Name": "Sindhuli District",
+    "Name": "Sindhuli",
     "Nepali": "सिन्धुली जिल्ला",
     "Headquarters": "Kamalamai",
     "Area(km2)": "2,491",
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "Name": "Ramechhap District",
+    "Name": "Ramechhap",
     "Nepali": "रामेछाप जिल्ला",
     "Headquarters": "Manthali",
     "Area(km2)": "1,546",
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "Name": "Dolakha District",
+    "Name": "Dolakha",
     "Nepali": "दोलखा जिल्ला",
     "Headquarters": "Bhimeshwar",
     "Area(km2)": "2,191",
@@ -305,7 +305,7 @@
     ]
   },
   {
-    "Name": "Bhaktapur District",
+    "Name": "Bhaktapur",
     "Nepali": "भक्तपुर जिल्ला",
     "Headquarters": "Bhaktapur",
     "Area(km2)": 119,
@@ -316,7 +316,7 @@
     ]
   },
   {
-    "Name": "Dhading District",
+    "Name": "Dhading",
     "Nepali": "धादिङ जिल्ला",
     "Headquarters": "Nilkantha",
     "Area(km2)": "1,926",
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "Name": "Kathmandu District",
+    "Name": "Kathmandu",
     "Nepali": "काठमाडौँ जिल्ला",
     "Headquarters": "Kathmandu",
     "Area(km2)": 395,
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "Name": "Kavrepalanchok District",
+    "Name": "Kavrepalanchok",
     "Nepali": "काभ्रेपलान्चोक जिल्ला",
     "Headquarters": "Dhulikhel",
     "Area(km2)": "1,396",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "Name": "Lalitpur District",
+    "Name": "Lalitpur",
     "Nepali": "ललितपुर जिल्ला",
     "Headquarters": "Lalitpur",
     "Area(km2)": 385,
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "Name": "Nuwakot District",
+    "Name": "Nuwakot",
     "Nepali": "नुवाकोट जिल्ला",
     "Headquarters": "Bidur",
     "Area(km2)": "1,121",
@@ -377,7 +377,7 @@
     ]
   },
   {
-    "Name": "Rasuwa District",
+    "Name": "Rasuwa",
     "Nepali": "रसुवा जिल्ला",
     "Headquarters": "Dhunche",
     "Area(km2)": "1,544",
@@ -389,7 +389,7 @@
     ]
   },
   {
-    "Name": "Sindhupalchok District",
+    "Name": "Sindhupalchok",
     "Nepali": "सिन्धुपाल्चोक जिल्ला",
     "Headquarters": "Chautara",
     "Area(km2)": "2,542",
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "Name": "Chitwan District",
+    "Name": "Chitwan",
     "Nepali": "चितवन जिल्ला",
     "Headquarters": "Bharatpur",
     "Area(km2)": "2,218",
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "Name": "Makwanpur District",
+    "Name": "Makwanpur",
     "Nepali": "मकवानपुर जिल्ला",
     "Headquarters": "Hetauda",
     "Area(km2)": "2,426",
@@ -427,7 +427,7 @@
     ]
   },
   {
-    "Name": "Baglung District",
+    "Name": "Baglung",
     "Nepali": "बागलुङ जिल्ला",
     "Headquarters": "Baglung",
     "Area(km2)": "1,784",
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "Name": "Gorkha District",
+    "Name": "Gorkha",
     "Nepali": "गोरखा जिल्ला",
     "Headquarters": "Gorkha",
     "Area(km2)": "3,610",
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "Name": "Kaski District",
+    "Name": "Kaski",
     "Nepali": "कास्की जिल्ला",
     "Headquarters": "Pokhara",
     "Area(km2)": "2,017",
@@ -464,7 +464,7 @@
     ]
   },
   {
-    "Name": "Lamjung District",
+    "Name": "Lamjung",
     "Nepali": "लमजुङ जिल्ला",
     "Headquarters": "Besisahar",
     "Area(km2)": "1,692",
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "Name": "Manang District",
+    "Name": "Manang",
     "Nepali": "मनाङ जिल्ला",
     "Headquarters": "Chame",
     "Area(km2)": "2,246",
@@ -487,7 +487,7 @@
     ]
   },
   {
-    "Name": "Mustang District",
+    "Name": "Mustang",
     "Nepali": "मुस्ताङ जिल्ला",
     "Headquarters": "Jomsom",
     "Area(km2)": "3,573",
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "Name": "Myagdi District",
+    "Name": "Myagdi",
     "Nepali": "म्याग्दी जिल्ला",
     "Headquarters": "Beni",
     "Area(km2)": "2,297",
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "Name": "Nawalpur District",
+    "Name": "Nawalpur",
     "Nepali": "नवलपुर जिल्ला",
     "Headquarters": "Kawasoti",
     "Area(km2)": "1,043.1",
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "Name": "Parbat District",
+    "Name": "Parbat",
     "Nepali": "पर्वत जिल्ला",
     "Headquarters": "Kusma",
     "Area(km2)": 494,
@@ -534,7 +534,7 @@
     ]
   },
   {
-    "Name": "Syangja District",
+    "Name": "Syangja",
     "Nepali": "स्याङग्जा जिल्ला",
     "Headquarters": "Putalibazar",
     "Area(km2)": "1,164",
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "Name": "Tanahun District",
+    "Name": "Tanahun",
     "Nepali": "तनहुँ जिल्ला",
     "Headquarters": "Damauli",
     "Area(km2)": "1,546",
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "Name": "Kapilvastu District",
+    "Name": "Kapilvastu",
     "Nepali": "कपिलवस्तु जिल्ला",
     "Headquarters": "Taulihawa",
     "Area(km2)": "1,738",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "Name": "Parasi District",
+    "Name": "Parasi",
     "Nepali": "परासी जिल्ला",
     "Headquarters": "Ramgram",
     "Area(km2)": 634.88,
@@ -582,7 +582,7 @@
     ]
   },
   {
-    "Name": "Rupandehi District",
+    "Name": "Rupandehi",
     "Nepali": "रुपन्देही जिल्ला",
     "Headquarters": "Siddharthanagar",
     "Area(km2)": "1,360",
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "Name": "Arghakhanchi District",
+    "Name": "Arghakhanchi",
     "Nepali": "अर्घाखाँची जिल्ला",
     "Headquarters": "Sandhikharka",
     "Area(km2)": "1,193",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "Name": "Gulmi District",
+    "Name": "Gulmi",
     "Nepali": "गुल्मी जिल्ला",
     "Headquarters": "Tamghas",
     "Area(km2)": "1,149",
@@ -619,7 +619,7 @@
     ]
   },
   {
-    "Name": "Palpa District",
+    "Name": "Palpa",
     "Nepali": "पाल्पा जिल्ला",
     "Headquarters": "Tansen",
     "Area(km2)": "1,373",
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "Name": "Dang District",
+    "Name": "Dang",
     "Nepali": "दाङ जिल्ला",
     "Headquarters": "Ghorahi",
     "Area(km2)": "2,955",
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "Name": "Pyuthan District",
+    "Name": "Pyuthan",
     "Nepali": "प्युठान जिल्ला",
     "Headquarters": "Pyuthan",
     "Area(km2)": "1,309",
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "Name": "Rolpa District",
+    "Name": "Rolpa",
     "Nepali": "रोल्पा जिल्ला",
     "Headquarters": "Liwang",
     "Area(km2)": "1,879",
@@ -668,7 +668,7 @@
     ]
   },
   {
-    "Name": "Eastern Rukum District",
+    "Name": "Eastern Rukum",
     "Nepali": "पूर्वी रूकुम जिल्ला",
     "Headquarters": "Rukumkot",
     "Area(km2)": "1,161.13",
@@ -680,7 +680,7 @@
     ]
   },
   {
-    "Name": "Banke District",
+    "Name": "Banke",
     "Nepali": "बाँके जिल्ला",
     "Headquarters": "Nepalganj",
     "Area(km2)": "2,337",
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "Name": "Bardiya District",
+    "Name": "Bardiya",
     "Nepali": "बर्दिया जिल्ला",
     "Headquarters": "Gulariya",
     "Area(km2)": "2,025",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "Name": "Western Rukum District",
+    "Name": "Western Rukum",
     "Nepali": "पश्चिमी रूकुम जिल्ला",
     "Headquarters": "Musikot",
     "Area(km2)": "1,213.49",
@@ -717,7 +717,7 @@
     ]
   },
   {
-    "Name": "Salyan District",
+    "Name": "Salyan",
     "Nepali": "सल्यान जिल्ला",
     "Headquarters": "Salyan",
     "Area(km2)": "1,462",
@@ -729,7 +729,7 @@
     ]
   },
   {
-    "Name": "Dolpa District",
+    "Name": "Dolpa",
     "Nepali": "डोल्पा जिल्ला",
     "Headquarters": "Dunai",
     "Area(km2)": "7,889",
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "Name": "Humla District",
+    "Name": "Humla",
     "Nepali": "हुम्ला जिल्ला",
     "Headquarters": "Simikot",
     "Area(km2)": "5,655",
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "Name": "Jumla District",
+    "Name": "Jumla",
     "Nepali": "जुम्ला जिल्ला",
     "Headquarters": "Chandannath",
     "Area(km2)": "2,531",
@@ -764,7 +764,7 @@
     ]
   },
   {
-    "Name": "Kalikot District",
+    "Name": "Kalikot",
     "Nepali": "कालिकोट जिल्ला",
     "Headquarters": "Manma",
     "Area(km2)": "1,741",
@@ -776,7 +776,7 @@
     ]
   },
   {
-    "Name": "Mugu District",
+    "Name": "Mugu",
     "Nepali": "मुगु जिल्ला",
     "Headquarters": "Gamgadhi",
     "Area(km2)": "3,535",
@@ -788,7 +788,7 @@
     ]
   },
   {
-    "Name": "Surkhet District",
+    "Name": "Surkhet",
     "Nepali": "सुर्खेत जिल्ला",
     "Headquarters": "Birendranagar",
     "Area(km2)": "2,451",
@@ -800,7 +800,7 @@
     ]
   },
   {
-    "Name": "Dailekh District",
+    "Name": "Dailekh",
     "Nepali": "दैलेख जिल्ला",
     "Headquarters": "Narayan",
     "Area(km2)": "1,502",
@@ -812,7 +812,7 @@
     ]
   },
   {
-    "Name": "Jajarkot District",
+    "Name": "Jajarkot",
     "Nepali": "जाजरकोट जिल्ला",
     "Headquarters": "Khalanga",
     "Area(km2)": "2,230",
@@ -824,7 +824,7 @@
     ]
   },
   {
-    "Name": "Kailali District",
+    "Name": "Kailali",
     "Nepali": "कैलाली जिल्ला",
     "Headquarters": "Dhangadhi",
     "Area(km2)": "3,235",
@@ -837,7 +837,7 @@
     ]
   },
   {
-    "Name": "Achham District",
+    "Name": "Achham",
     "Nepali": "अछाम जिल्ला",
     "Headquarters": "Mangalsen",
     "Area(km2)": "1,680",
@@ -849,7 +849,7 @@
     ]
   },
   {
-    "Name": "Doti District",
+    "Name": "Doti",
     "Nepali": "डोटी जिल्ला",
     "Headquarters": "Dipayal Silgadhi",
     "Area(km2)": "2,025",
@@ -861,7 +861,7 @@
     ]
   },
   {
-    "Name": "Bajhang District",
+    "Name": "Bajhang",
     "Nepali": "बझाङ जिल्ला",
     "Headquarters": "Jayaprithvi",
     "Area(km2)": "3,422",
@@ -873,7 +873,7 @@
     ]
   },
   {
-    "Name": "Bajura District",
+    "Name": "Bajura",
     "Nepali": "बाजुरा जिल्ला",
     "Headquarters": "Martadi",
     "Area(km2)": "2,188",
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "Name": "Kanchanpur District",
+    "Name": "Kanchanpur",
     "Nepali": "कंचनपुर जिल्ला",
     "Headquarters": "Bhimdatta",
     "Area(km2)": "1,610",
@@ -897,7 +897,7 @@
     ]
   },
   {
-    "Name": "Dadeldhura District",
+    "Name": "Dadeldhura",
     "Nepali": "डडेलधुरा जिल्ला",
     "Headquarters": "Amargadhi",
     "Area(km2)": "1,538",
@@ -909,7 +909,7 @@
     ]
   },
   {
-    "Name": "Baitadi District",
+    "Name": "Baitadi",
     "Nepali": "बैतडी जिल्ला",
     "Headquarters": "Dasharathchand",
     "Area(km2)": "1,519",
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "Name": "Darchula District",
+    "Name": "Darchula",
     "Nepali": "दार्चुला जिल्ला",
     "Headquarters": "Darchula",
     "Area(km2)": "2,322",
