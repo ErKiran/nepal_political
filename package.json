@@ -1,6 +1,6 @@
 {
   "name": "nepal_political",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "This npm package has details about Nepal Political Administrative Info",
   "main": "index.js",
   "directories": {
