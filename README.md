@@ -20,7 +20,7 @@ Import Module in your project
 ``` js 
 const {Nepal} = require('nepal_political');
 or
-import {Nepal} from 'nepal_political');
+import {Nepal} from 'nepal_political';
 ```
 
 There is interactive GIS Based Website Developed by the goverment of Nepal. [Check Here](http://103.69.124.141/)
