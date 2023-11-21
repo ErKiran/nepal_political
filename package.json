@@ -13,7 +13,8 @@
   "scripts": {
     "test": "mocha --timeout 10000",
     "start": "node index.js",
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
