@@ -99,7 +99,7 @@ result
 #### Get all Ward in Localbody
 
 ```js
-Nepal.WardByLocalBody('काठमाण्डौ महानगरपालिका')
+Nepal.WardDetails('काठमाण्डौ महानगरपालिका')
 ```
 
 result 
