@@ -48,8 +48,8 @@ describe('Nepal Political Division', function () {
     })
     describe('All Districts', () => {
         it('should return an array of districts', function () {
-            const wards = Nepal.AllDistricts();
-            assert.isArray(wards);
+            const districts = Nepal.AllDistricts();
+            assert.isArray(districts);
         });
         it('should return 77 Districts', () => {
             const districts = Nepal.AllDistricts();
