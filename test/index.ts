@@ -46,4 +46,14 @@ describe('Nepal Political Division', function () {
             assert.lengthOf(wards, 9);
         });
     })
+    describe('All Districts', () => {
+        it('should return an array of districts', function () {
+            const wards = Nepal.AllDistricts();
+            assert.isArray(wards);
+        });
+        it('should return 77 Districts', () => {
+            const districts = Nepal.AllDistricts();
+            assert.lengthOf(districts, 77);
+        });
+    })
 });

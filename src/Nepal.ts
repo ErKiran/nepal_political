@@ -51,5 +51,12 @@ export default {
     WardDetails: function WardDetails(municipalityName: string): number[] {
         const localBody = Nepal.find(i => i.localbody === municipalityName);
         return localBody ? Array.from(new Set(localBody.ward)) : [];
+    },
+    AllDistricts: function AllDistricts(): string[] {
+        const districtSet = new Set<string>()
+        Nepal.map(i => {
+            districtSet.add(i.district)
+        })
+        return Array.from(districtSet)
     }
 }
