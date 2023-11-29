@@ -1,10 +1,10 @@
 # nepal_political
 ![Logo](http://i68.tinypic.com/iddumb.png)
 
-[![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political/v/1.3.0)
+[![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political/v/1.3.1)
 ![Thank](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 
-A mini 133.9kB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/package/nepal_political@1.3.0)
+A mini 133.9kB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/package/nepal_political@1.3.1)
 
 ### No any external dependicies. 
 ## Usage
