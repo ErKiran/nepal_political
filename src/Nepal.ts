@@ -6,7 +6,7 @@ import Nepal from '../data/Nepal.json'
 export default {
     /**
      * Retrieves the list of provinces in Nepal.
-     * @returns An array of province names.
+     * @returns {string[]} An array of province names.
      */
     Province: function Province(): string[] {
         const statesSet = new Set<string>()
@@ -18,7 +18,7 @@ export default {
     /**
      * Retrieves the list of districts in a specific province.
      * @param provinceName - The name of the province.
-     * @returns An array of district names.
+     * @returns {string[]} An array of district names.
      */
     DistrictByProvince: function DistrictByProvince(provinceName: string): string[] {
         const districtSet = new Set<string>()
@@ -32,7 +32,7 @@ export default {
     /**
      * Retrieves the list of local bodies in a specific district.
      * @param districtName - The name of the district.
-     * @returns An array of local body names.
+     * @returns {string[]} An array of local body names.
      */
     LocalBodiesByDistrict: function LocalBodiesByDistrict(districtName: string): string[] {
         const localBodiesSet = new Set<string>()
@@ -46,10 +46,22 @@ export default {
     /**
      * Retrieves the list of ward details for a specific municipality.
      * @param municipalityName - The name of the municipality.
-     * @returns An array of ward numbers.
+     * @returns {number[]}
      */
     WardDetails: function WardDetails(municipalityName: string): number[] {
         const localBody = Nepal.find(i => i.localbody === municipalityName);
         return localBody ? Array.from(new Set(localBody.ward)) : [];
+    },
+    /**
+     * Retrives the list of all districts in Nepal.
+     * @function AllDistricts
+     * @returns {string[]} An array of unique district names.
+     */
+    AllDistricts: function AllDistricts(): string[] {
+        const districtSet = new Set<string>()
+        Nepal.map(i => {
+            districtSet.add(i.district)
+        })
+        return Array.from(districtSet)
     }
 }

@@ -1,10 +1,10 @@
 # nepal_political
 ![Logo](http://i68.tinypic.com/iddumb.png)
 
-[![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political/v/1.3.0)
+[![npm version](https://badge.fury.io/js/nepal_political.svg)](https://www.npmjs.com/package/nepal_political/v/1.3.1)
 ![Thank](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 
-A mini 133.9kB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/package/nepal_political@1.3.0)
+A mini 133.9kB npm package that contains all the political/division information about Nepal. [Check Size](https://bundlephobia.com/package/nepal_political@1.3.1)
 
 ### No any external dependicies. 
 ## Usage
@@ -17,9 +17,9 @@ npm i nepal_political
 
 Import Module in your project
 ``` js 
-const {Nepal} = require('nepal_political');
+const Nepal = require('nepal_political');
 or
-import {Nepal} from 'nepal_political';
+import Nepal from 'nepal_political';
 ```
 
 There is interactive GIS Based Website Developed by the goverment of Nepal. [Check Here](http://103.69.124.141/)
@@ -30,12 +30,12 @@ There is interactive GIS Based Website Developed by the goverment of Nepal. [Che
 _____________________________________________________
 #### Get all Province in Nepal
 
-```js
+```javascript
 Nepal.Province()
 ```
 
 result 
-```js
+```javascript
 [
   'प्रदेश १',
   'मधेश प्रदेश',
@@ -47,13 +47,27 @@ result
 ]
 ```
 
+#### Get all districts
+
+```javascript
+Nepal.AllDistricts()
+```
+result
+```javascript
+[
+  'सोलुखुम्बु',
+  'झापा',
+  ...
+]
+```
+
 #### Get all districts in Province
 
-```js
+```javascript
 Nepal.DistrictByProvince('प्रदेश १')
 ```
 result 
-```js
+```javascript
 [
   'सोलुखुम्बु', 
   'संखुवासभा',
@@ -74,12 +88,12 @@ result
 
 #### Get all localbody in District
 
-```js
+```javascript
 Nepal.LocalBodiesByDistrict('काठमाडौं')
 ```
 
 result 
-```js 
+```javascript 
 [
   'दक्षिणकाली नगरपालिका',
   'गोकर्णेश्वर नगरपालिका',
@@ -97,12 +111,12 @@ result
 
 #### Get all Ward in Localbody
 
-```js
+```javascript
 Nepal.WardDetails('काठमाण्डौ महानगरपालिका')
 ```
 
 result 
-```js 
+```javascript 
 [ 1,  2,  3,  4,  5,  6,  7,  8,  9,
  10, 11, 12, 13, 14, 15, 16, 17, 18,
  19, 20, 21, 22, 23, 24, 25, 26, 27,
